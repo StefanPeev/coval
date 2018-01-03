@@ -1,5 +1,5 @@
 # Coval
-Coval is a part of a project for development of free-to-use fonts with the modern Bulgarian letterform model in Cyrillic code range. The project as a whole is based on an existing fonts under licenses which permit modifications and derivative works. Especially Coval is a derivative work of cm-unicode fonts version 0.7.0, licensed under [OFL.txt](SIL Open Font License).
+Coval is a part of a project for development of free-to-use fonts with the modern Bulgarian letterform model in Cyrillic code range. The project as a whole is based on an existing fonts under licenses which permit modifications and derivative works. Especially Coval is a derivative work of cm-unicode fonts version 0.7.0, licensed under [OFL.txt](OFL.txt).
 
 # The initial issue of Coval
 The initial issue of Coval was a font family with 22 fonts (11 weight from thin to black and corresponding italics). In this issue the base range of the Cyrillic glyphs (uni0410:uni044F) represents the modern Bulgarian letterform model. The international/traditional Cyrillic letterform model is included as a local feature for Russian language. This issue (versions 1.0-2.0) was published on https://fontlibrary.org.
