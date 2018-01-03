@@ -1,0 +1,14 @@
+Computer Modern Unicode fonts
+
+
+Computer Modern is the family of typefaces developed by Donald Knuth for TeX. It's so good-looking that some scientists do research just so they can write it up in Computer Modern.
+
+Computer Modern Unicode fonts were converted from metafont sources using mftrace with autotrace backend and fontforge (former pfaedit). Their main purpose is to create free good quality fonts for use in X applications supporting many languages. Currently the fonts contain glyphs from Latin1 (Metafont ec, tc, vnr), Cyrillic (lh) and Greek (cbgreek when available) code sets and IPA extensions (from tipa). Other alphabets are also welcome. Now this set contains 33 fonts. It is better to use these fonts with antialiasing enabled.
+
+The versions of fonts prior to 0.7.0 are distributed under the terms of X11 License with an exception for font embedding into documents. Some scripts for font generation are distributed under the terms of GNU General Public License. The versions 0.2.2 and before were distributed under the terms of Latex Project Public License (LPPL) Version 1.2. Since version 0.7.0 the license is changed to SIL Open Font License (OFL).
+
+The latest version is 0.6.3a.
+
+The latest development version is 0.7.0.
+
+There is project page for the fonts at SourceForge.net.
