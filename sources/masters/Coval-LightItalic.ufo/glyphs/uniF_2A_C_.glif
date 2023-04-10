@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF2AC" format="2">
+  <advance width="533"/>
+  <unicode hex="F2AC"/>
+  <outline>
+    <contour>
+      <point x="81" y="0" type="line"/>
+      <point x="190" y="473" type="line"/>
+      <point x="252" y="473" type="line"/>
+      <point x="297" y="421" type="line" smooth="yes"/>
+      <point x="329" y="384"/>
+      <point x="343" y="367"/>
+      <point x="365" y="342" type="curve"/>
+      <point x="389" y="312"/>
+      <point x="435" y="266"/>
+      <point x="444" y="240" type="curve"/>
+      <point x="498" y="472" type="line" name=".hr01"/>
+      <point x="559" y="472" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="429" y="175" type="line"/>
+      <point x="266" y="356"/>
+      <point x="252" y="374"/>
+      <point x="236" y="408" type="curve" name=".hr02"/>
+      <point x="142" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>01ab88bb50424fa2ca746bb300e7528986dacbdf4c7b6a494218253ee0b7c16d79ea1adbdc028f1543d44360e6dc01a7938dd1241de24831b4fec9c54eb8c1ca</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>vstem 81 478</string>
+          <string>hstem 408 65</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 452 20</string>
+          <string>vstem 81 478</string>
+          <string>hstem 0 21</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 408 65</string>
+          <string>hstem 0 21</string>
+          <string>vstem 81 478</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

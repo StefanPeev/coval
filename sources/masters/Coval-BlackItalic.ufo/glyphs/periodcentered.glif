@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="2">
+  <advance width="219"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="87" y="189" type="line"/>
+      <point x="116" y="317" type="line"/>
+      <point x="245" y="317" type="line"/>
+      <point x="216" y="189" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w219m87,189l116,317l245,317l216,189</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 189 128</string>
+          <string>vstem 87 158</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="2">
+  <advance width="719"/>
+  <unicode hex="0041"/>
+  <anchor x="351" y="790" name="top"/>
+  <anchor x="579" y="10" name="bottom_0"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="354.859" y="538.362" type="line"/>
+      <point x="347.141" y="538.362" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="699" y="0" type="line"/>
+      <point x="457" y="695" type="line"/>
+      <point x="262" y="695" type="line"/>
+    </contour>
+    <contour>
+      <point x="458" y="250" type="line"/>
+      <point x="244" y="250" type="line"/>
+      <point x="208" y="146" type="line"/>
+      <point x="493" y="146" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="351" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H-25</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H-25</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w719m20,0l172,0l354.86,538.36l347.14,538.36l530,0l699,0l457,695l262,695m458,250l244,250l208,146l493,146</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 146 104</string>
+          <string>hstem 675 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

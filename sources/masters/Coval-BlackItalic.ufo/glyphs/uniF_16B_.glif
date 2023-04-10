@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF16B" format="2">
+  <advance width="306"/>
+  <unicode hex="F16B"/>
+  <outline>
+    <contour>
+      <point x="69" y="-21" type="line"/>
+      <point x="239" y="716" type="line"/>
+      <point x="392" y="716" type="line"/>
+      <point x="222" y="-21" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w306m69,-21l239,716l392,716l222,-21</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -21 21</string>
+          <string>hstem 696 20</string>
+          <string>vstem 69 323</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

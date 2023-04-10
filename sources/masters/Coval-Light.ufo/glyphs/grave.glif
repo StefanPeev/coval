@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="2">
+  <advance width="525"/>
+  <unicode hex="0060"/>
+  <anchor x="289" y="550" name="_top"/>
+  <outline>
+    <contour>
+      <point x="123" y="708" type="line"/>
+      <point x="196" y="708" type="line"/>
+      <point x="316" y="550" type="line"/>
+      <point x="266" y="550" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="708"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w525m123,708l196,708l316,550l266,550</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 538 21</string>
+          <string>hstem 647 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

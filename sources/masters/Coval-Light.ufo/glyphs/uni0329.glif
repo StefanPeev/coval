@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0329" format="2">
+  <unicode hex="0329"/>
+  <outline>
+    <contour>
+      <point x="-142" y="-267" type="line"/>
+      <point x="-142" y="-34" type="line"/>
+      <point x="-92" y="-34" type="line"/>
+      <point x="-92" y="-267" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-142,-267l-142,-34l-92,-34l-92,-267</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -267 21</string>
+          <string>hstem -54 20</string>
+          <string>vstem -142 50</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

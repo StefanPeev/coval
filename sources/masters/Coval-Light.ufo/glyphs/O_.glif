@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="2">
+  <advance width="786"/>
+  <unicode hex="004F"/>
+  <anchor x="393" y="790" name="top"/>
+  <anchor x="438" y="8" name="bottom_0"/>
+  <outline>
+    <contour>
+      <point x="60" y="347" type="curve" smooth="yes"/>
+      <point x="60" y="596"/>
+      <point x="213" y="711"/>
+      <point x="393" y="711" type="curve" smooth="yes"/>
+      <point x="573" y="711"/>
+      <point x="726" y="596"/>
+      <point x="726" y="347" type="curve" smooth="yes"/>
+      <point x="726" y="98"/>
+      <point x="573" y="-17"/>
+      <point x="393" y="-17" type="curve" smooth="yes"/>
+      <point x="213" y="-17"/>
+      <point x="60" y="98"/>
+    </contour>
+    <contour>
+      <point x="130" y="347" type="curve" smooth="yes"/>
+      <point x="130" y="147"/>
+      <point x="236" y="36"/>
+      <point x="393" y="36" type="curve" smooth="yes"/>
+      <point x="544" y="36"/>
+      <point x="656" y="139"/>
+      <point x="656" y="347" type="curve" smooth="yes"/>
+      <point x="656" y="580"/>
+      <point x="538" y="658"/>
+      <point x="393" y="658" type="curve" smooth="yes"/>
+      <point x="247" y="658"/>
+      <point x="130" y="580"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6d49c0a8254890d19acf6d6f214850c30a0f4cba20b174610ccdb4a2613b93f7c71e45b63fa530575f28d13a39af8685ef38f1b9f2c9978fb573e46e59f6b8f9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -17 53</string>
+          <string>hstem 659 52</string>
+          <string>vstem 58 70</string>
+          <string>vstem 654 70</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10076.001" format="2">
+  <advance width="531"/>
+  <outline>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="170" y="472" type="line"/>
+      <point x="302" y="472" type="line"/>
+      <point x="271" y="336" type="line"/>
+      <point x="351" y="404" type="line" smooth="yes"/>
+      <point x="378" y="427"/>
+      <point x="405" y="450"/>
+      <point x="432" y="472" type="curve"/>
+      <point x="604" y="472" type="line"/>
+      <point x="386" y="289" type="line"/>
+      <point x="514" y="0" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="275" y="196" type="line"/>
+      <point x="229" y="157" type="line"/>
+      <point x="193" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w531m61,0l170,472l302,472l271,336l351,404c378,427 405,450 432,472l604,472l386,289l514,0l362,0l275,196l229,157l193,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 452 20</string>
+          <string>vstem 61 543</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

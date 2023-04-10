@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni037A" format="2">
+  <advance width="122"/>
+  <unicode hex="037A"/>
+  <anchor x="50" y="0" name="bottom_gr_alpha"/>
+  <anchor x="50" y="0" name="bottom_gr_eta"/>
+  <outline>
+    <contour>
+      <point x="7" y="-50" type="line"/>
+      <point x="117" y="-50" type="line"/>
+      <point x="117" y="-206" type="line" smooth="yes"/>
+      <point x="117" y="-251"/>
+      <point x="82" y="-261"/>
+      <point x="62" y="-261" type="curve" smooth="yes"/>
+      <point x="42" y="-261"/>
+      <point x="7" y="-251"/>
+      <point x="7" y="-206" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w122m7,-50l117,-50l117,-206c117,-251 82,-261 62,-261c42,-261 7,-251 7,-206</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -260 21</string>
+          <string>hstem -69 20</string>
+          <string>vstem -16 153</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

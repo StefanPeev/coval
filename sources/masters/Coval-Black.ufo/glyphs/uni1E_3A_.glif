@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E3A" format="2">
+  <advance width="581"/>
+  <unicode hex="1E3A"/>
+  <outline>
+    <component base="uni0331" xOffset="588.5" yOffset="49"/>
+    <component base="L" xOffset="38"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w581</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -130 101</string>
+          <string>hstem 0 118</string>
+          <string>hstem 675 20</string>
+          <string>vstem 83 163</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

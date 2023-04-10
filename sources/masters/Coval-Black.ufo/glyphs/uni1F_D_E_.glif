@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDE" format="2">
+  <advance width="392"/>
+  <unicode hex="1FDE"/>
+  <anchor x="357" y="606" name="top_left_gr"/>
+  <anchor x="348" y="530" name="Iota_gr_tonos"/>
+  <outline>
+    <contour>
+      <point x="145" y="695" type="line"/>
+      <point x="145" y="574" type="line"/>
+      <point x="106" y="574" type="line"/>
+      <point x="137" y="490" type="line"/>
+      <point x="73" y="490" type="line"/>
+      <point x="64" y="507" type="line" smooth="yes"/>
+      <point x="54.9969" y="524.006"/>
+      <point x="20" y="591.382"/>
+      <point x="20" y="614" type="curve" smooth="yes"/>
+      <point x="20" y="695" type="line"/>
+    </contour>
+    <contour>
+      <point x="152" y="490" type="line"/>
+      <point x="213" y="695" type="line"/>
+      <point x="372" y="695" type="line"/>
+      <point x="241" y="490" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w392m145,695l145,574l106,574l137,490l73,490l64,507c55.,524.01 20,591.38 20,614l20,695m152,490l213,695l372,695l241,490</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 502 21</string>
+          <string>hstem 675 20</string>
+          <string>vstem 20 118</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

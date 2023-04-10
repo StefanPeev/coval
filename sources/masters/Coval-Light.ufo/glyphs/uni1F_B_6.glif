@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FB6" format="2">
+  <advance width="622"/>
+  <unicode hex="1FB6"/>
+  <anchor x="270" y="0" name="bottom_gr_alpha"/>
+  <outline>
+    <component base="uni1FC0" xOffset="63" yOffset="-5"/>
+    <component base="alpha"/>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etatonos" format="2">
+  <advance width="496"/>
+  <unicode hex="03AE"/>
+  <anchor x="110" y="0" name="bottom_gr_eta"/>
+  <outline>
+    <component base="tonos" xOffset="146" yOffset="32"/>
+    <component base="eta"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w496</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -167 21</string>
+          <string>hstem 0 21</string>
+          <string>hstem 425 64</string>
+          <string>hstem 675 20</string>
+          <string>vstem 134 65</string>
+          <string>vstem 431 64</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

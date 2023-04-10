@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="2">
+  <advance width="689"/>
+  <unicode hex="0054"/>
+  <anchor x="345" y="790" name="top"/>
+  <anchor x="343" y="-50" name="bottom_50"/>
+  <outline>
+    <contour>
+      <point x="20" y="637" type="line"/>
+      <point x="20" y="692" type="line"/>
+      <point x="669" y="692" type="line"/>
+      <point x="669" y="637" type="line"/>
+      <point x="380" y="637" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="310" y="637" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="345" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=20</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w689m20,637l20,692l669,692l669,637l380,637l380,0l310,0l310,637</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 637 55</string>
+          <string>vstem 310 70</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

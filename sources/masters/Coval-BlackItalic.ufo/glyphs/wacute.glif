@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wacute" format="2">
+  <advance width="744"/>
+  <unicode hex="1E83"/>
+  <outline>
+    <contour>
+      <point x="354" y="517" type="line"/>
+      <point x="498" y="679" type="line"/>
+      <point x="660" y="679" type="line"/>
+      <point x="445" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="472" type="line"/>
+      <point x="256" y="472" type="line"/>
+      <point x="260" y="373"/>
+      <point x="265" y="275"/>
+      <point x="269" y="176" type="curve"/>
+      <point x="317" y="275"/>
+      <point x="367" y="373"/>
+      <point x="417" y="472" type="curve"/>
+      <point x="523" y="472" type="line"/>
+      <point x="528" y="368"/>
+      <point x="532" y="264"/>
+      <point x="537" y="160" type="curve"/>
+      <point x="568" y="222" type="line"/>
+      <point x="568" y="222"/>
+      <point x="568" y="222"/>
+      <point x="568" y="222" type="curve"/>
+      <point x="693" y="472" type="line"/>
+      <point x="829" y="472" type="line"/>
+      <point x="591" y="0" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="408" y="127"/>
+      <point x="396" y="201"/>
+      <point x="407" y="268" type="curve"/>
+      <point x="373" y="191"/>
+      <point x="315" y="77"/>
+      <point x="277" y="0" type="curve"/>
+      <point x="137" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1bf356fe444985a6df4f1991eb8c531b1a63b9f31bc29418b31318f2aa4983ec3784363cea1f6d4b1cc19f0f19ae44253b3288e2b2f63b8c967ea65144710f7a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 0 160</string>
+          <string>hstem 452 20</string>
+          <string>hstem 517 162</string>
+          <string>vstem 127 135</string>
+          <string>vstem 403 134</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ibreve" format="2">
+  <advance width="364"/>
+  <unicode hex="012D"/>
+  <outline>
+    <contour>
+      <point x="236" y="675" type="curve"/>
+      <point x="285" y="675" type="line"/>
+      <point x="272" y="602"/>
+      <point x="356" y="589"/>
+      <point x="388" y="589" type="curve" smooth="yes"/>
+      <point x="433" y="589"/>
+      <point x="507" y="610"/>
+      <point x="526" y="675" type="curve"/>
+      <point x="577" y="675" type="line"/>
+      <point x="555" y="587"/>
+      <point x="460" y="535"/>
+      <point x="374" y="535" type="curve" smooth="yes"/>
+      <point x="291" y="535"/>
+      <point x="218" y="587"/>
+    </contour>
+    <contour>
+      <point x="218" y="0" type="line"/>
+      <point x="327" y="472" type="line"/>
+      <point x="390" y="472" type="line"/>
+      <point x="281" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3cdbf8c8a8b4d00cb2bc87bd49236873ad50c1833ce4017393e32fac398ebd33497063cddb3157b7dec07f352a82093106a504531fc313752fab4481e54c8d2c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 452 20</string>
+          <string>hstem 535 54</string>
+          <string>vstem 233 52</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+  <advance width="721"/>
+  <unicode hex="0058"/>
+  <anchor x="353" y="790" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="268" y="368" type="line"/>
+      <point x="16" y="695" type="line"/>
+      <point x="211" y="695" type="line"/>
+      <point x="353" y="500" type="line"/>
+      <point x="490" y="695" type="line"/>
+      <point x="677" y="695" type="line"/>
+      <point x="440" y="367" type="line"/>
+      <point x="721" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="353" y="246" type="line"/>
+      <point x="187" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A-20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A-20</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w721m0,0l268,368l16,695l211,695l353,500l490,695l677,695l440,367l721,0l525,0l353,246l187,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 675 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

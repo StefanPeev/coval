@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FCD" format="2">
+  <advance width="292"/>
+  <unicode hex="1FCD"/>
+  <outline>
+    <contour>
+      <point x="294" y="695" type="line"/>
+      <point x="359" y="695" type="line"/>
+      <point x="399" y="517" type="line"/>
+      <point x="349" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="695" type="line"/>
+      <point x="254" y="695" type="line"/>
+      <point x="239" y="630" type="line"/>
+      <point x="178" y="536" type="line"/>
+      <point x="139" y="536" type="line"/>
+      <point x="181" y="616" type="line" name=".hr01"/>
+      <point x="157" y="616" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w292m294,695l359,695l399,517l349,517m175,695l254,695l239,630l178,536l139,536l181,616l157,616</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 517 178</string>
+          <string>vstem 139 260</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 517 178</string>
+          <string>vstem 139 260</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

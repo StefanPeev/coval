@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04F2" format="2">
+  <advance width="675"/>
+  <unicode hex="04F2"/>
+  <outline>
+    <component base="hungarumlaut" xOffset="166.5" yOffset="221"/>
+    <component base="uni0423" xOffset="30"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w675</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 53</string>
+          <string>hstem 675 20</string>
+          <string>hstem 760 91</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

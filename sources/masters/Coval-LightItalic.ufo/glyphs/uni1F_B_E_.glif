@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FBE" format="2">
+  <advance width="233"/>
+  <unicode hex="1FBE"/>
+  <outline>
+    <contour>
+      <point x="119" y="153" type="line"/>
+      <point x="184" y="153" type="line"/>
+      <point x="114" y="-153" type="line"/>
+      <point x="49" y="-153" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w233m119,153l184,153l114,-153l49,-153</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -153 306</string>
+          <string>vstem 49 135</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

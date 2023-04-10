@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="2">
+  <advance width="467"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="93" y="-163" type="line"/>
+      <point x="204" y="-18" type="line"/>
+      <point x="254" y="-18" type="line"/>
+      <point x="151" y="-163" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w467m93,-163l204,-18l254,-18l151,-163</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -163 145</string>
+          <string>vstem 93 161</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

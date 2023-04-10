@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="2">
+  <advance width="876"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="124" y="78" type="line"/>
+      <point x="202" y="78" type="line"/>
+      <point x="184" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="398" y="0" type="line"/>
+      <point x="416" y="78" type="line"/>
+      <point x="494" y="78" type="line"/>
+      <point x="476" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="690" y="0" type="line"/>
+      <point x="708" y="78" type="line"/>
+      <point x="786" y="78" type="line"/>
+      <point x="768" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w876m106,0l124,78l202,78l184,0m398,0l416,78l494,78l476,0m690,0l708,78l786,78l768,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 78</string>
+          <string>vstem 106 680</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0424.loclBGR" format="2">
+  <advance width="851"/>
+  <outline>
+    <contour>
+      <point x="30" y="362" type="curve" smooth="yes"/>
+      <point x="30" y="594"/>
+      <point x="207" y="612"/>
+      <point x="347" y="620" type="curve"/>
+      <point x="347" y="695" type="line"/>
+      <point x="504" y="695" type="line"/>
+      <point x="504" y="620" type="line"/>
+      <point x="644" y="612"/>
+      <point x="821" y="594"/>
+      <point x="821" y="362" type="curve" smooth="yes"/>
+      <point x="821" y="128"/>
+      <point x="644" y="110"/>
+      <point x="504" y="102" type="curve"/>
+      <point x="504" y="0" type="line"/>
+      <point x="347" y="0" type="line"/>
+      <point x="347" y="102" type="line"/>
+      <point x="207" y="110"/>
+      <point x="30" y="128"/>
+    </contour>
+    <contour>
+      <point x="190" y="362" type="curve" smooth="yes"/>
+      <point x="190" y="248"/>
+      <point x="234" y="204"/>
+      <point x="347" y="194" type="curve"/>
+      <point x="347" y="528" type="line"/>
+      <point x="234" y="518"/>
+      <point x="190" y="476"/>
+    </contour>
+    <contour>
+      <point x="504" y="193" type="line"/>
+      <point x="617" y="203"/>
+      <point x="661" y="252"/>
+      <point x="661" y="362" type="curve" smooth="yes"/>
+      <point x="661" y="478"/>
+      <point x="613" y="518"/>
+      <point x="504" y="528" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fbd5403f8281610d301bf1bedbc9d7778a96164e366b77ff7bddfe8957be35a2e0924e67707f994232c0180af50b9e18b5f726a8520d11e539c97fb2918dbc3b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 102 92</string>
+          <string>hstem 528 92</string>
+          <string>hstem 675 20</string>
+          <string>vstem 30 160</string>
+          <string>vstem 347 157</string>
+          <string>vstem 661 160</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

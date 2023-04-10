@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni201F" format="2">
+  <advance width="375"/>
+  <unicode hex="201F"/>
+  <outline>
+    <contour>
+      <point x="127" y="575" type="line"/>
+      <point x="154" y="695" type="line"/>
+      <point x="301" y="695" type="line"/>
+      <point x="267" y="547" type="line"/>
+      <point x="232" y="547" type="line"/>
+      <point x="246" y="439" type="line"/>
+      <point x="162" y="439" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="575" type="line"/>
+      <point x="387" y="695" type="line"/>
+      <point x="534" y="695" type="line"/>
+      <point x="500" y="547" type="line"/>
+      <point x="465" y="547" type="line"/>
+      <point x="479" y="439" type="line"/>
+      <point x="395" y="439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w375m127,575l154,695l301,695l267,547l232,547l246,439l162,439m360,575l387,695l534,695l500,547l465,547l479,439l395,439</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 547 148</string>
+          <string>vstem 127 407</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

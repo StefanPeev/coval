@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="2">
+  <advance width="642"/>
+  <unicode hex="00C8"/>
+  <outline>
+    <contour>
+      <point x="324" y="858" type="line"/>
+      <point x="389" y="858"/>
+      <point x="455" y="858"/>
+      <point x="520" y="858" type="curve"/>
+      <point x="559" y="819"/>
+      <point x="598" y="782"/>
+      <point x="635" y="742" type="curve"/>
+      <point x="551" y="742" type="line" smooth="yes"/>
+      <point x="483" y="742"/>
+      <point x="394" y="802"/>
+      <point x="316" y="842" type="curve"/>
+    </contour>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="244" y="692" type="line"/>
+      <point x="738" y="692" type="line"/>
+      <point x="710" y="570" type="line"/>
+      <point x="379" y="573" type="line"/>
+      <point x="343" y="415" type="line"/>
+      <point x="644" y="415" type="line"/>
+      <point x="618" y="303" type="line"/>
+      <point x="317" y="303" type="line"/>
+      <point x="275" y="123" type="line"/>
+      <point x="622" y="127" type="line"/>
+      <point x="593" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1421343c2d6656ac5f7cb02bb805a363debfc790b048f6c54e0d800fa621bbeee9c3df9c96d3c7e0d18a3a52aa5612eac7ccd275d978ae68805da7365791a958</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 125</string>
+          <string>hstem 303 112</string>
+          <string>hstem 571 120</string>
+          <string>hstem 742 116</string>
+          <string>vstem 84 654</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

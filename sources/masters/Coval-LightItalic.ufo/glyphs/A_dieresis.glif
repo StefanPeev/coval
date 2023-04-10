@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="2">
+  <advance width="675"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <contour>
+      <point x="392" y="816" type="line"/>
+      <point x="407" y="879" type="line"/>
+      <point x="470" y="879" type="line"/>
+      <point x="455" y="816" type="line"/>
+    </contour>
+    <contour>
+      <point x="596" y="816" type="line"/>
+      <point x="611" y="879" type="line"/>
+      <point x="674" y="879" type="line"/>
+      <point x="659" y="816" type="line"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="line"/>
+      <point x="461" y="703" type="line"/>
+      <point x="537" y="703" type="line"/>
+      <point x="645" y="0" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="539" y="210" type="line"/>
+      <point x="222" y="210" type="line"/>
+      <point x="94" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="263" type="curve"/>
+      <point x="533" y="261" type="line"/>
+      <point x="513" y="396"/>
+      <point x="481" y="629"/>
+      <point x="478" y="629" type="curve"/>
+      <point x="432" y="554"/>
+      <point x="358" y="432"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>32a47653e5e02c43230a40a103b5ab978039bfbb587fc6dc4d4eacd2a526c39fb2c57a46d403152fc1f3821873e183ff823284e03ae1434f839e66470e28e626</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 210 52</string>
+          <string>hstem 629 74</string>
+          <string>hstem 683 20</string>
+          <string>hstem 816 63</string>
+          <string>vstem 29 645</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

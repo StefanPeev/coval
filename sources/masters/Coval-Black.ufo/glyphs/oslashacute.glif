@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslashacute" format="2">
+  <advance width="550"/>
+  <unicode hex="01FF"/>
+  <outline>
+    <component base="uni02CA" xOffset="154" yOffset="84"/>
+    <component base="oslash"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w550</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -101 21</string>
+          <string>hstem -11 89</string>
+          <string>hstem 400 88</string>
+          <string>hstem 740 20</string>
+          <string>vstem 25 134</string>
+          <string>vstem 378 134</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

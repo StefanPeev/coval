@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotadieresis" format="2">
+  <advance width="267"/>
+  <unicode hex="03AA"/>
+  <outline>
+    <contour>
+      <point x="197" y="742" type="line"/>
+      <point x="215" y="820" type="line"/>
+      <point x="293" y="820" type="line"/>
+      <point x="275" y="742" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="0" type="line"/>
+      <point x="257" y="695" type="line"/>
+      <point x="327" y="695" type="line"/>
+      <point x="167" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="332" y="742" type="line"/>
+      <point x="350" y="820" type="line"/>
+      <point x="428" y="820" type="line"/>
+      <point x="410" y="742" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w267m197,742l215,820l293,820l275,742m97,0l257,695l327,695l167,0m332,742l350,820l428,820l410,742</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 675 20</string>
+          <string>hstem 742 78</string>
+          <string>vstem 97 331</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10084.001" format="2">
+  <advance width="489"/>
+  <outline>
+    <contour>
+      <point x="123" y="422" type="line"/>
+      <point x="135" y="472" type="line"/>
+      <point x="573" y="472" type="line"/>
+      <point x="561" y="422" type="line"/>
+      <point x="374" y="422" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="213" y="0" type="line"/>
+      <point x="310" y="422" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w489m123,422l135,472l573,472l561,422l374,422l277,0l213,0l310,422</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 422 50</string>
+          <string>vstem 123 450</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

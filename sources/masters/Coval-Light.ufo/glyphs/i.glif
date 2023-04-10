@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+  <advance width="225"/>
+  <unicode hex="0069"/>
+  <anchor x="109" y="10" name="bottom_0"/>
+  <anchor x="112" y="690" name="top_D"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="uni0307" xOffset="244"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+dotaccentcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

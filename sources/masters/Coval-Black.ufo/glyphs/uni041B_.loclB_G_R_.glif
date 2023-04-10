@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni041B.loclBGR" format="2">
+  <advance width="733"/>
+  <outline>
+    <contour>
+      <point x="716" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="353" y="529" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="263" y="695" type="line"/>
+      <point x="459" y="695" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w733m716,0l546,0l353,529l162,0l6,0l263,695l459,695</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 675 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

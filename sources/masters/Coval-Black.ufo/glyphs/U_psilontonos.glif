@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilontonos" format="2">
+  <advance width="1039"/>
+  <unicode hex="038E"/>
+  <outline>
+    <component base="Upsilon" xOffset="260"/>
+    <contour>
+      <point x="-11" y="502" type="line"/>
+      <point x="51" y="695" type="line" name=".hr01"/>
+      <point x="210" y="695" type="line"/>
+      <point x="79" y="502" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1039m-11,502l51,695l210,695l79,502</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 540 176</string>
+          <string>vstem 233 152</string>
+          <string>vstem 518 162</string>
+          <string>vstem 814 151</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 675 20</string>
+          <string>hstem 0 21</string>
+          <string>vstem 233 152</string>
+          <string>vstem 518 162</string>
+          <string>vstem 814 151</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

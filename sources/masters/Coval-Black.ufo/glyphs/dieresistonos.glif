@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="2">
+  <advance width="432"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="20" y="505" type="line"/>
+      <point x="20" y="586" type="line"/>
+      <point x="136" y="586" type="line"/>
+      <point x="136" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="502" type="line"/>
+      <point x="143" y="503"/>
+      <point x="144" y="504"/>
+      <point x="204" y="695" type="curve"/>
+      <point x="364" y="695" type="line"/>
+      <point x="233" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="505" type="line"/>
+      <point x="298" y="586" type="line"/>
+      <point x="412" y="586" type="line"/>
+      <point x="412" y="505" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w432m20,505l20,586l136,586l136,505m143,502c143,503 144,504 204,695l364,695l233,502m298,505l298,586l412,586l412,505</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 505 81</string>
+          <string>hstem 566 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

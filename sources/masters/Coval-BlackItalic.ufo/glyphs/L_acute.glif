@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="2">
+  <advance width="581"/>
+  <unicode hex="0139"/>
+  <outline>
+    <contour>
+      <point x="146" y="742" type="line"/>
+      <point x="160" y="752"/>
+      <point x="174" y="762"/>
+      <point x="187" y="772" type="curve" smooth="yes"/>
+      <point x="258" y="825"/>
+      <point x="306" y="858"/>
+      <point x="404" y="858" type="curve" smooth="yes"/>
+      <point x="477" y="858" type="line" smooth="yes"/>
+      <point x="495" y="858"/>
+      <point x="511" y="864"/>
+      <point x="511" y="841" type="curve"/>
+      <point x="369" y="781" type="line" smooth="yes"/>
+      <point x="217" y="716"/>
+      <point x="270" y="742"/>
+      <point x="210" y="742" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="83" y="0" type="line"/>
+      <point x="243" y="695" type="line"/>
+      <point x="407" y="695" type="line"/>
+      <point x="274" y="118" type="line"/>
+      <point x="561" y="121" type="line"/>
+      <point x="533" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>270c209ad8d6b686aecaaf103a7ae2baabd38db24dd8f311187b78e06d02d247fa183af7b5cd843d6693410613333d8a13c075e27e43814e133592ffc1aaeb24</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 119</string>
+          <string>hstem 675 20</string>
+          <string>hstem 737 121</string>
+          <string>vstem 83 478</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

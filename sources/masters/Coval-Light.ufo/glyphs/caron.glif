@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="2">
+  <advance width="525"/>
+  <unicode hex="02C7"/>
+  <anchor x="262" y="550" name="_top"/>
+  <outline>
+    <contour>
+      <point x="116" y="708" type="line"/>
+      <point x="166" y="708" type="line"/>
+      <point x="262" y="602" type="line"/>
+      <point x="358" y="708" type="line"/>
+      <point x="408" y="708" type="line"/>
+      <point x="288" y="550" type="line"/>
+      <point x="236" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w525m116,708l166,708l262,602l358,708l408,708l288,550l236,550</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 536 21</string>
+          <string>hstem 647 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="487"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="432" type="line"/>
+      <point x="145" y="472" type="line"/>
+      <point x="145" y="245" type="line"/>
+      <point x="370" y="472" type="line"/>
+      <point x="449" y="472" type="line"/>
+      <point x="272" y="294" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="231" y="252" type="line"/>
+      <point x="144" y="165" type="line"/>
+      <point x="144" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w487m80,0l80,432l145,472l145,245l370,472l449,472l272,294l472,0l403,0l231,252l144,165l144,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 452 20</string>
+          <string>hstem 675 20</string>
+          <string>vstem 80 65</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

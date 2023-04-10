@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02B1" format="2">
+  <advance width="258"/>
+  <unicode hex="02B1"/>
+  <outline>
+    <contour>
+      <point x="131" y="394" type="line"/>
+      <point x="192" y="654" type="line"/>
+      <point x="194" y="661"/>
+      <point x="195" y="669"/>
+      <point x="197" y="676" type="curve"/>
+      <point x="207" y="721"/>
+      <point x="275" y="749"/>
+      <point x="326" y="749" type="curve" smooth="yes"/>
+      <point x="354" y="749"/>
+      <point x="378" y="741"/>
+      <point x="399" y="724" type="curve"/>
+      <point x="384" y="698" type="line"/>
+      <point x="383" y="698"/>
+      <point x="373" y="708"/>
+      <point x="372" y="708" type="curve" smooth="yes"/>
+      <point x="366" y="708"/>
+      <point x="363" y="724"/>
+      <point x="333" y="724" type="curve" smooth="yes"/>
+      <point x="281" y="724"/>
+      <point x="239" y="710"/>
+      <point x="229" y="678" type="curve"/>
+      <point x="206" y="582" type="line"/>
+      <point x="229" y="617"/>
+      <point x="258" y="634"/>
+      <point x="292" y="634" type="curve" smooth="yes"/>
+      <point x="340" y="634"/>
+      <point x="358" y="606"/>
+      <point x="345" y="551" type="curve" smooth="yes"/>
+      <point x="309" y="394" type="line"/>
+      <point x="276" y="394" type="line"/>
+      <point x="306" y="523" type="line" smooth="yes"/>
+      <point x="308" y="532"/>
+      <point x="310" y="540"/>
+      <point x="312" y="549" type="curve" smooth="yes"/>
+      <point x="316" y="568"/>
+      <point x="315" y="583"/>
+      <point x="310" y="593" type="curve" smooth="yes"/>
+      <point x="305" y="603"/>
+      <point x="292" y="608"/>
+      <point x="271" y="608" type="curve" smooth="yes"/>
+      <point x="231" y="608"/>
+      <point x="207" y="580"/>
+      <point x="193" y="524" type="curve" smooth="yes"/>
+      <point x="182" y="481"/>
+      <point x="173" y="437"/>
+      <point x="163" y="394" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>80e42dfe74615f0c687ebd8bab9d058d918715c4f03df8dba06ad081454658b779c3fd26cd0a6ccff556a9bd2d2caad2c843027bf52fa857737546ba21384931</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 608 26</string>
+          <string>hstem 724 25</string>
+          <string>vstem 312 37</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

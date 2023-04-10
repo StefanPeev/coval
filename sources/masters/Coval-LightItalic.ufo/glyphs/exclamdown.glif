@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+  <advance width="325"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="84" y="-167" type="line"/>
+      <point x="200" y="298" type="line"/>
+      <point x="206" y="326" type="line"/>
+      <point x="209" y="338"/>
+      <point x="211" y="346"/>
+      <point x="212" y="350" type="curve"/>
+      <point x="274" y="350" type="line"/>
+      <point x="162" y="-167" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="450" type="line"/>
+      <point x="246" y="528" type="line"/>
+      <point x="324" y="528" type="line"/>
+      <point x="306" y="450" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w325m84,-167l200,298l206,326c209,338 211,346 212,350l274,350l162,-167m228,450l246,528l324,528l306,450</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -167 21</string>
+          <string>hstem 450 78</string>
+          <string>vstem 84 240</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

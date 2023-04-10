@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicrontonos" format="2">
+  <advance width="885"/>
+  <unicode hex="038C"/>
+  <outline>
+    <component base="Omicron" xOffset="90"/>
+    <contour>
+      <point x="-12" y="502" type="line"/>
+      <point x="49" y="695" type="line" name=".hr01"/>
+      <point x="209" y="695" type="line"/>
+      <point x="78" y="502" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w885m-12,502l49,695l209,695l78,502</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -21 98</string>
+          <string>hstem 621 95</string>
+          <string>vstem 143 163</string>
+          <string>vstem 652 163</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 675 20</string>
+          <string>hstem -21 98</string>
+          <string>vstem 143 163</string>
+          <string>vstem 652 163</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

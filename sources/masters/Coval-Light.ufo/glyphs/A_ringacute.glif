@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="2">
+  <advance width="675"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <component base="uni02CA" xOffset="151" yOffset="404"/>
+    <component base="Aring"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w675</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 210 53</string>
+          <string>hstem 683 20</string>
+          <string>hstem 844 50</string>
+          <string>hstem 954 21</string>
+          <string>hstem 1083 20</string>
+          <string>vstem 215 58</string>
+          <string>vstem 390 58</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

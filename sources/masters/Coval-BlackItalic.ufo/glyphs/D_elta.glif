@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="2">
+  <advance width="917"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="36" y="0" type="line"/>
+      <point x="512" y="695" type="line"/>
+      <point x="710" y="695" type="line"/>
+      <point x="866" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="149" type="curve"/>
+      <point x="414" y="149"/>
+      <point x="534" y="149"/>
+      <point x="654" y="149" type="curve"/>
+      <point x="609" y="344" type="line" smooth="yes"/>
+      <point x="594" y="408"/>
+      <point x="580" y="473"/>
+      <point x="565" y="541" type="curve"/>
+      <point x="473" y="406"/>
+      <point x="386" y="285"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w917m36,0l512,695l710,695l866,0m294,149c414,149 534,149 654,149l609,344c594,408 580,473 565,541c473,406 386,285 294,149</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 149</string>
+          <string>hstem 541 154</string>
+          <string>hstem 675 20</string>
+          <string>vstem 36 830</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

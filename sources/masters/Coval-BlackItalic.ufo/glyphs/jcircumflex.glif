@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="2">
+  <advance width="286"/>
+  <unicode hex="0135"/>
+  <outline>
+    <contour>
+      <point x="87" y="517" type="line"/>
+      <point x="255" y="681" type="line"/>
+      <point x="369" y="681" type="line"/>
+      <point x="461" y="517" type="line"/>
+      <point x="367" y="517" type="line"/>
+      <point x="294" y="600" type="line"/>
+      <point x="181" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="-109" y="-137" type="curve"/>
+      <point x="-55" y="-51" type="line"/>
+      <point x="-30" y="-64"/>
+      <point x="-11" y="-70"/>
+      <point x="15" y="-70" type="curve" smooth="yes"/>
+      <point x="60" y="-70"/>
+      <point x="68" y="-58"/>
+      <point x="71" y="-43" type="curve" smooth="yes"/>
+      <point x="190" y="472" type="line"/>
+      <point x="338" y="472" type="line"/>
+      <point x="224" y="-23" type="line"/>
+      <point x="208" y="-78"/>
+      <point x="195" y="-171"/>
+      <point x="40" y="-171" type="curve" smooth="yes"/>
+      <point x="25" y="-171"/>
+      <point x="11" y="-170"/>
+      <point x="-2" y="-168" type="curve" smooth="yes"/>
+      <point x="-42" y="-163"/>
+      <point x="-78" y="-151"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a73ee881316fedc2a6dd7a126915d7ff766eb76374a8f0b506bea5cd52435fea74d6fe869753836bf548dda33aa52533caefb5671d280176f685a89d80ae66f6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -171 101</string>
+          <string>hstem 452 20</string>
+          <string>hstem 517 164</string>
+          <string>vstem -109 570</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

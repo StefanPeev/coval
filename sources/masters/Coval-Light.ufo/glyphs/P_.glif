@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="2">
+  <advance width="641"/>
+  <unicode hex="0050"/>
+  <anchor x="281" y="790" name="top"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="695" type="line"/>
+      <point x="360" y="695" type="line" smooth="yes"/>
+      <point x="508" y="695"/>
+      <point x="581" y="618"/>
+      <point x="581" y="494" type="curve" smooth="yes"/>
+      <point x="581" y="376"/>
+      <point x="520" y="295"/>
+      <point x="360" y="295" type="curve" smooth="yes"/>
+      <point x="150" y="295" type="line"/>
+      <point x="150" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="350" type="line"/>
+      <point x="360" y="350" type="line" smooth="yes"/>
+      <point x="441" y="350"/>
+      <point x="511" y="401"/>
+      <point x="511" y="494" type="curve" smooth="yes"/>
+      <point x="511" y="581"/>
+      <point x="462" y="640"/>
+      <point x="360" y="640" type="curve" smooth="yes"/>
+      <point x="149" y="640" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4200a8b665c481b9e20d1d3b09d2ac299606983e993e208e94db7c7ea2dec61da4022ad899eb145073afd8d73bcd57b13029d65ce2353278aa25faef027bbb9c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 295 55</string>
+          <string>hstem 640 55</string>
+          <string>vstem 80 70</string>
+          <string>vstem 511 70</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

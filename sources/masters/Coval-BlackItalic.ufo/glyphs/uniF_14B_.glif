@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF14B" format="2">
+  <advance width="367"/>
+  <unicode hex="F14B"/>
+  <outline>
+    <contour>
+      <point x="-71" y="10" type="curve" smooth="yes"/>
+      <point x="-64" y="45"/>
+      <point x="-28" y="86"/>
+      <point x="33" y="86" type="curve" smooth="yes"/>
+      <point x="370" y="86" type="line" smooth="yes"/>
+      <point x="427" y="86"/>
+      <point x="439" y="55"/>
+      <point x="439" y="26" type="curve" smooth="yes"/>
+      <point x="439" y="-5"/>
+      <point x="411" y="-66"/>
+      <point x="335" y="-66" type="curve" smooth="yes"/>
+      <point x="-2" y="-66" type="line" smooth="yes"/>
+      <point x="-78" y="-66"/>
+      <point x="-76" y="-13"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w367m-71,10c-64,45 -28,86 33,86l370,86c427,86 439,55 439,26c439,-5 411,-66 335,-66l-2,-66c-78,-66 -76,-13 -71,10</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -66 152</string>
+          <string>vstem -73 512</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

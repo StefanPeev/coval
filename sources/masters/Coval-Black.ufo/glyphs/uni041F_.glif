@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni041F" format="2">
+  <advance width="673"/>
+  <unicode hex="041F"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="45" y="695" type="line"/>
+      <point x="628" y="695" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="465" y="577" type="line"/>
+      <point x="208" y="577" type="line"/>
+      <point x="208" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w673m45,0l45,695l628,695l628,0l465,0l465,577l208,577l208,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 577 118</string>
+          <string>vstem 45 163</string>
+          <string>vstem 465 163</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

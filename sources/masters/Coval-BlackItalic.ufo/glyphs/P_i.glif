@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pi" format="2">
+  <advance width="794"/>
+  <unicode hex="03A0"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="244" y="692" type="line"/>
+      <point x="858" y="692" type="line"/>
+      <point x="698" y="0" type="line"/>
+      <point x="534" y="0" type="line"/>
+      <point x="668" y="580" type="line"/>
+      <point x="382" y="580" type="line"/>
+      <point x="248" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w794m84,0l244,692l858,692l698,0l534,0l668,580l382,580l248,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 580 112</string>
+          <string>vstem 84 774</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

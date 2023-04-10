@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="-203" y="659" type="line"/>
+      <point x="-57" y="813" type="line"/>
+      <point x="106" y="813" type="line"/>
+      <point x="-32" y="715" type="line" smooth="yes"/>
+      <point x="-127" y="648"/>
+      <point x="-108" y="659"/>
+      <point x="-141" y="659" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-203,659l-57,813l106,813l-32,715c-127,648 -108,659 -141,659</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 659 154</string>
+          <string>vstem -203 309</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

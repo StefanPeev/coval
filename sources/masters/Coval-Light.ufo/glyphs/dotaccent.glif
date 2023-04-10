@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+  <advance width="312"/>
+  <unicode hex="02D9"/>
+  <anchor x="156" y="550" name="_top"/>
+  <outline>
+    <contour>
+      <point x="117" y="550" type="line"/>
+      <point x="117" y="628" type="line"/>
+      <point x="195" y="628" type="line"/>
+      <point x="195" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w312m117,550l117,628l195,628l195,550</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 617 78</string>
+          <string>vstem 121 78</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

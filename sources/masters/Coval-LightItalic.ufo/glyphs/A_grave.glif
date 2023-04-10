@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="2">
+  <advance width="675"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <contour>
+      <point x="391" y="850" type="line"/>
+      <point x="418" y="850"/>
+      <point x="446" y="851"/>
+      <point x="473" y="851" type="curve" smooth="yes"/>
+      <point x="481" y="851"/>
+      <point x="545" y="814"/>
+      <point x="634" y="761" type="curve"/>
+      <point x="571" y="761" type="line" smooth="yes"/>
+      <point x="568" y="761"/>
+      <point x="485" y="803"/>
+      <point x="433" y="829" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="30" y="1" type="line"/>
+      <point x="462" y="704" type="line"/>
+      <point x="538" y="704" type="line"/>
+      <point x="646" y="1" type="line"/>
+      <point x="573" y="1" type="line"/>
+      <point x="540" y="211" type="line"/>
+      <point x="223" y="211" type="line"/>
+      <point x="95" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="264" type="curve"/>
+      <point x="534" y="262" type="line"/>
+      <point x="514" y="397"/>
+      <point x="482" y="630"/>
+      <point x="479" y="630" type="curve"/>
+      <point x="433" y="555"/>
+      <point x="359" y="433"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6985a6d73e1f3c097bd28b106d06789bd2432650f934bede5e10bdad8730acca1b0bb50e475c539111bd895da40858ec42984d842a3db4722b0b41ca330ac589</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1 21</string>
+          <string>hstem 211 52</string>
+          <string>hstem 630 74</string>
+          <string>hstem 684 20</string>
+          <string>hstem 761 90</string>
+          <string>vstem 30 616</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

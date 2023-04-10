@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF270" format="2">
+  <advance width="256"/>
+  <unicode hex="F270"/>
+  <outline>
+    <contour>
+      <point x="107" y="731" type="line"/>
+      <point x="266" y="731" type="line"/>
+      <point x="336" y="528" type="line"/>
+      <point x="242" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="51" y="0" type="line"/>
+      <point x="161" y="478" type="line"/>
+      <point x="310" y="478" type="line"/>
+      <point x="200" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w256m107,731l266,731l336,528l242,528m51,0l161,478l310,478l200,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 458 20</string>
+          <string>hstem 528 203</string>
+          <string>vstem 51 285</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

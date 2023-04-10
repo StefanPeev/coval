@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02E1" format="2">
+  <advance width="128"/>
+  <unicode hex="02E1"/>
+  <outline>
+    <contour>
+      <point x="20" y="382" type="line"/>
+      <point x="20" y="740" type="line"/>
+      <point x="105" y="740" type="line"/>
+      <point x="105" y="382" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w128m20,382l20,740l105,740l105,382</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 382 21</string>
+          <string>hstem 720 20</string>
+          <string>vstem 20 85</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

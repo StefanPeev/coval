@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one" format="2">
+  <advance width="525"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="233" y="556" type="curve"/>
+      <point x="245" y="607" type="line"/>
+      <point x="324" y="607"/>
+      <point x="391" y="629"/>
+      <point x="446" y="672" type="curve"/>
+      <point x="462" y="672" type="line"/>
+      <point x="319" y="50" type="line"/>
+      <point x="450" y="50" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="123" y="50" type="line"/>
+      <point x="254" y="50" type="line"/>
+      <point x="377" y="585" type="line"/>
+      <point x="334" y="566"/>
+      <point x="286" y="556"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w525m233,556l245,607c324,607 391,629 446,672l462,672l319,50l450,50l438,0l111,0l123,50l254,50l377,585c334,566 286,556 233,556</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 50</string>
+          <string>hstem 556 51</string>
+          <string>vstem 111 351</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

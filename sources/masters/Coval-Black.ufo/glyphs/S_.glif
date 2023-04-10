@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S" format="2">
+  <advance width="547"/>
+  <unicode hex="0053"/>
+  <anchor x="268" y="790" name="top"/>
+  <outline>
+    <contour>
+      <point x="20" y="51" type="curve"/>
+      <point x="46" y="202" type="line"/>
+      <point x="119" y="144"/>
+      <point x="185" y="104"/>
+      <point x="280" y="104" type="curve" smooth="yes"/>
+      <point x="371" y="104"/>
+      <point x="386" y="155"/>
+      <point x="386" y="189" type="curve" smooth="yes"/>
+      <point x="386" y="237.833"/>
+      <point x="356.366" y="265.057"/>
+      <point x="280" y="286.382" type="curve" smooth="yes"/>
+      <point x="199" y="309" type="line" smooth="yes"/>
+      <point x="83.9537" y="341.126"/>
+      <point x="33" y="407.693"/>
+      <point x="33" y="504" type="curve" smooth="yes"/>
+      <point x="33" y="612"/>
+      <point x="84.9974" y="716"/>
+      <point x="276" y="716" type="curve" smooth="yes"/>
+      <point x="359" y="716"/>
+      <point x="413" y="705"/>
+      <point x="495" y="665" type="curve"/>
+      <point x="470" y="515" type="line"/>
+      <point x="448" y="534"/>
+      <point x="367" y="596"/>
+      <point x="279" y="596" type="curve" smooth="yes"/>
+      <point x="190" y="596"/>
+      <point x="175" y="547.351"/>
+      <point x="175" y="516" type="curve" smooth="yes"/>
+      <point x="175" y="450.957"/>
+      <point x="208.678" y="439.509"/>
+      <point x="300.966" y="414.301" type="curve" smooth="yes"/>
+      <point x="346" y="402" type="line" smooth="yes"/>
+      <point x="476.587" y="366.331"/>
+      <point x="527" y="310.905"/>
+      <point x="527" y="203" type="curve" smooth="yes"/>
+      <point x="527" y="90"/>
+      <point x="478" y="-21"/>
+      <point x="280" y="-21" type="curve" smooth="yes"/>
+      <point x="188" y="-21"/>
+      <point x="102" y="5"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O-10</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f731797dc09962fc10dd1c6f14dfb851e72b3388e167a91b1be9f7fe3b100b0d9c26b0d315a04472a880ef02089f75f84697c720a1f75706dc54fb78d3ae9260</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -21 125</string>
+          <string>hstem 596 120</string>
+          <string>vstem 33 142</string>
+          <string>vstem 386 141</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

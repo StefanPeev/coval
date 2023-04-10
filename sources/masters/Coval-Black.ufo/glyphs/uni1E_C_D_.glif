@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ECD" format="2">
+  <advance width="548"/>
+  <unicode hex="1ECD"/>
+  <outline>
+    <component base="dotbelowcomb" xOffset="426.5" yOffset="-65"/>
+    <component base="o"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w548</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -192 21</string>
+          <string>hstem -11 94</string>
+          <string>hstem 399 89</string>
+          <string>vstem 31 150</string>
+          <string>vstem 368 150</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

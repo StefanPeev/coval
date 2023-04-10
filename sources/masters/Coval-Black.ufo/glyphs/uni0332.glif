@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0332" format="2">
+  <unicode hex="0332"/>
+  <outline>
+    <contour>
+      <point x="-760" y="-228" type="line"/>
+      <point x="-79" y="-228" type="line"/>
+      <point x="-79" y="-329" type="line"/>
+      <point x="-760" y="-329" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-760,-228l-79,-228l-79,-329l-760,-329</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -329 101</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

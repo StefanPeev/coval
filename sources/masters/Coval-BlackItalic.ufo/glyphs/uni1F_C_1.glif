@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FC1" format="2">
+  <advance width="489"/>
+  <unicode hex="1FC1"/>
+  <outline>
+    <contour>
+      <point x="200" y="598" type="curve"/>
+      <point x="197" y="601"/>
+      <point x="195" y="605"/>
+      <point x="192" y="608" type="curve"/>
+      <point x="214" y="686"/>
+      <point x="303" y="695"/>
+      <point x="334" y="695" type="curve" smooth="yes"/>
+      <point x="345" y="695"/>
+      <point x="361" y="694"/>
+      <point x="378" y="692" type="curve" smooth="yes"/>
+      <point x="412" y="689" type="line" smooth="yes"/>
+      <point x="423" y="688"/>
+      <point x="433" y="687"/>
+      <point x="440" y="687" type="curve" smooth="yes"/>
+      <point x="463" y="687"/>
+      <point x="472" y="687"/>
+      <point x="475" y="688" type="curve"/>
+      <point x="476" y="688"/>
+      <point x="483" y="693"/>
+      <point x="485" y="695" type="curve"/>
+      <point x="588" y="695" type="line"/>
+      <point x="564" y="615"/>
+      <point x="487" y="600"/>
+      <point x="452" y="598" type="curve"/>
+      <point x="434" y="598"/>
+      <point x="418" y="599"/>
+      <point x="398" y="600" type="curve"/>
+      <point x="367" y="603" type="line" smooth="yes"/>
+      <point x="357" y="604"/>
+      <point x="348" y="604"/>
+      <point x="339" y="604" type="curve" smooth="yes"/>
+      <point x="304" y="604"/>
+      <point x="300" y="602"/>
+      <point x="297" y="600" type="curve" smooth="yes"/>
+      <point x="277" y="591"/>
+      <point x="225" y="598"/>
+    </contour>
+    <contour>
+      <point x="206" y="481" type="line"/>
+      <point x="233" y="597" type="line"/>
+      <point x="347" y="597" type="line"/>
+      <point x="320" y="481" type="line"/>
+    </contour>
+    <contour>
+      <point x="381" y="481" type="line"/>
+      <point x="408" y="597" type="line"/>
+      <point x="522" y="597" type="line"/>
+      <point x="495" y="481" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9e4c343a3aff001d6ca700a72f64525f99ffefa538ffb08374a701afdac08dd3728163bef955100305deac25376290d5454a77b2291dc6e73e544c30a54a22ad</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 481 116</string>
+          <string>hstem 598 90</string>
+          <string>hstem 598 97</string>
+          <string>hstem 672 20</string>
+          <string>vstem 192 396</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

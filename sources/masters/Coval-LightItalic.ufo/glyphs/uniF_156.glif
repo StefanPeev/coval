@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF156" format="2">
+  <advance width="233"/>
+  <unicode hex="F156"/>
+  <outline>
+    <contour>
+      <point x="49" y="346" type="curve"/>
+      <point x="49" y="345"/>
+      <point x="48" y="343"/>
+      <point x="48" y="342" type="curve"/>
+      <point x="52" y="358"/>
+      <point x="68" y="376"/>
+      <point x="88" y="376" type="curve" smooth="yes"/>
+      <point x="95" y="376"/>
+      <point x="102" y="372"/>
+      <point x="109" y="365" type="curve"/>
+      <point x="114" y="358"/>
+      <point x="116" y="354"/>
+      <point x="116" y="352" type="curve"/>
+      <point x="116" y="352"/>
+      <point x="116" y="352"/>
+      <point x="116" y="352" type="curve"/>
+      <point x="246" y="56" type="line" smooth="yes"/>
+      <point x="261" y="21"/>
+      <point x="267" y="10"/>
+      <point x="265" y="-2" type="curve"/>
+      <point x="261" y="-18"/>
+      <point x="244" y="-32"/>
+      <point x="227" y="-32" type="curve" smooth="yes"/>
+      <point x="202" y="-32"/>
+      <point x="200" y="-15"/>
+      <point x="185" y="22" type="curve" smooth="yes"/>
+      <point x="173" y="52" type="line"/>
+      <point x="56" y="316" type="line" smooth="yes"/>
+      <point x="49" y="331"/>
+      <point x="48" y="341"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8b8021aba1cb2f163752cf8e25faeab890a0068f4a50c203062bca28cbff912219b462710f3aaa36d056df7bfc32c2a351916c7b983df166272d746710a540b1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -32 408</string>
+          <string>vstem 48 217</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

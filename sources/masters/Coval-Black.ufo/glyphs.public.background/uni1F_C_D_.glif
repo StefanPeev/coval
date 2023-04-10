@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FCD" format="2">
+  <advance width="386"/>
+  <outline>
+    <contour>
+      <point x="-29" y="695" type="line"/>
+      <point x="89" y="695" type="line"/>
+      <point x="89" y="582" type="line"/>
+      <point x="34" y="527" type="line"/>
+      <point x="-37" y="527" type="line"/>
+      <point x="-6" y="576" type="line"/>
+      <point x="-29" y="576" type="line"/>
+    </contour>
+  </outline>
+</glyph>

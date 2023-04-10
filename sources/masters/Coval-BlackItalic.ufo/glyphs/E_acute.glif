@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute" format="2">
+  <advance width="642"/>
+  <unicode hex="00C9"/>
+  <outline>
+    <contour>
+      <point x="355" y="742" type="line"/>
+      <point x="523" y="858" type="line"/>
+      <point x="604" y="858" type="line" smooth="yes"/>
+      <point x="623" y="858"/>
+      <point x="642" y="857"/>
+      <point x="661" y="857" type="curve" smooth="yes"/>
+      <point x="719" y="857" type="line"/>
+      <point x="719" y="841" type="line"/>
+      <point x="577" y="781" type="line" smooth="yes"/>
+      <point x="424" y="715"/>
+      <point x="465" y="742"/>
+      <point x="430" y="742" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="244" y="692" type="line"/>
+      <point x="738" y="692" type="line"/>
+      <point x="710" y="570" type="line"/>
+      <point x="379" y="573" type="line"/>
+      <point x="343" y="415" type="line"/>
+      <point x="644" y="415" type="line"/>
+      <point x="618" y="303" type="line"/>
+      <point x="317" y="303" type="line"/>
+      <point x="275" y="123" type="line"/>
+      <point x="622" y="127" type="line"/>
+      <point x="593" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>88f4a82563bd6e456311b91cac67ca70607dd3ecaa4cf231973ad8cdcd056a96c84a392de1c45ac223227ca5b831b820775f94dac84f182da5fbe36f531cdb50</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 125</string>
+          <string>hstem 303 112</string>
+          <string>hstem 571 120</string>
+          <string>hstem 737 121</string>
+          <string>hstem 841 16</string>
+          <string>vstem 84 654</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

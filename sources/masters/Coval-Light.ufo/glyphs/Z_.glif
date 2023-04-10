@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="2">
+  <advance width="571"/>
+  <unicode hex="005A"/>
+  <anchor x="300" y="790" name="top"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="20" y="36" type="line"/>
+      <point x="451" y="640" type="line"/>
+      <point x="35" y="640" type="line"/>
+      <point x="35" y="695" type="line"/>
+      <point x="545" y="695" type="line"/>
+      <point x="545" y="660" type="line"/>
+      <point x="114" y="55" type="line"/>
+      <point x="551" y="55" type="line"/>
+      <point x="551" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=T</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w571m20,0l20,36l451,640l35,640l35,695l545,695l545,660l114,55l551,55l551,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 55</string>
+          <string>hstem 640 55</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

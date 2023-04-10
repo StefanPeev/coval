@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcommaaccent" format="2">
+  <advance width="733"/>
+  <unicode hex="0122"/>
+  <outline>
+    <component base="uni0326" xOffset="526.5" yOffset="-39"/>
+    <component base="G" xOffset="24"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w733</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -264 21</string>
+          <string>hstem -101 20</string>
+          <string>hstem -21 116</string>
+          <string>hstem 226 112</string>
+          <string>hstem 600 116</string>
+          <string>vstem 54 163</string>
+          <string>vstem 503 152</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

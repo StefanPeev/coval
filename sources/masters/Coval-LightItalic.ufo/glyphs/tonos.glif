@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="2">
+  <advance width="175"/>
+  <unicode hex="0384"/>
+  <outline>
+    <contour>
+      <point x="122" y="517" type="line"/>
+      <point x="245" y="695" type="line"/>
+      <point x="309" y="695" type="line"/>
+      <point x="172" y="517" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w175m122,517l245,695l309,695l172,517</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 517 178</string>
+          <string>hstem 675 20</string>
+          <string>vstem 122 187</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

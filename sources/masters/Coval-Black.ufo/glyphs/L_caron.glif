@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="581"/>
+  <unicode hex="013D"/>
+  <outline>
+    <component base="uni02BC" xOffset="551" yOffset="22"/>
+    <component base="L" xOffset="38"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w581</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 118</string>
+          <string>hstem 655 20</string>
+          <string>hstem 802 20</string>
+          <string>vstem 83 163</string>
+          <string>vstem 256 147</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

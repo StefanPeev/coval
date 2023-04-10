@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccedilla" format="2">
+  <advance width="671"/>
+  <unicode hex="00C7"/>
+  <outline>
+    <contour>
+      <point x="161" y="347" type="curve"/>
+      <point x="159" y="347"/>
+      <point x="157" y="347"/>
+      <point x="155" y="347" type="curve"/>
+      <point x="200" y="538"/>
+      <point x="377" y="711"/>
+      <point x="573" y="711" type="curve" smooth="yes"/>
+      <point x="635" y="711"/>
+      <point x="697" y="700"/>
+      <point x="758" y="677" type="curve"/>
+      <point x="729" y="608" type="line"/>
+      <point x="682" y="636"/>
+      <point x="649" y="659"/>
+      <point x="561" y="659" type="curve" smooth="yes"/>
+      <point x="408" y="659"/>
+      <point x="266" y="511"/>
+      <point x="229" y="348" type="curve" smooth="yes"/>
+      <point x="191" y="183"/>
+      <point x="266" y="36"/>
+      <point x="420" y="36" type="curve" smooth="yes"/>
+      <point x="450" y="36"/>
+      <point x="480" y="39"/>
+      <point x="506" y="45" type="curve" smooth="yes"/>
+      <point x="563" y="59"/>
+      <point x="569" y="63"/>
+      <point x="622" y="92" type="curve" smooth="yes"/>
+      <point x="633" y="98" type="line"/>
+      <point x="625" y="40" type="line"/>
+      <point x="563" y="8"/>
+      <point x="547" y="-3"/>
+      <point x="471" y="-11" type="curve" smooth="yes"/>
+      <point x="452" y="-13"/>
+      <point x="431" y="-15"/>
+      <point x="409" y="-15" type="curve" smooth="yes"/>
+      <point x="281" y="-15"/>
+      <point x="191" y="60"/>
+      <point x="161" y="170" type="curve" smooth="yes"/>
+      <point x="146" y="225"/>
+      <point x="146" y="284"/>
+    </contour>
+    <contour>
+      <point x="234" y="-193" type="line"/>
+      <point x="345" y="-48" type="line"/>
+      <point x="362" y="-48"/>
+      <point x="378" y="-48"/>
+      <point x="395" y="-48" type="curve"/>
+      <point x="292" y="-193" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>69aff5d4b793930f821f1158e72907929570e80177d477063205c2b9e7ab89c7f8432e1a5666010a38e7f9552c0e9b98ead24f6154d809d8eb53aac38cf2aead</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -193 145</string>
+          <string>hstem -15 51</string>
+          <string>hstem 659 52</string>
+          <string>vstem 150 69</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

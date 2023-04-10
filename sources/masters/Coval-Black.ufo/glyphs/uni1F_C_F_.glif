@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FCF" format="2">
+  <advance width="245"/>
+  <unicode hex="1FCF"/>
+  <anchor x="266" y="664" name="top_left_gr"/>
+  <anchor x="-10" y="780" name="top_Omega_1FDF"/>
+  <anchor x="90" y="560" name="top_gr_alpha"/>
+  <anchor x="300" y="750" name="Eta_gr_top"/>
+  <anchor x="210" y="670" name="Alpha_gr_tonos"/>
+  <anchor x="313" y="750" name="Iota_gr_tonos"/>
+  <outline>
+    <component base="uni1FC0" xOffset="-100" yOffset="120"/>
+    <component base="uni1FBF"/>
+  </outline>
+</glyph>

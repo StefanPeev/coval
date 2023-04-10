@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflex" format="2">
+  <advance width="675"/>
+  <unicode hex="00C2"/>
+  <outline>
+    <contour>
+      <point x="343" y="727" type="line"/>
+      <point x="513" y="897" type="line"/>
+      <point x="576" y="897" type="line"/>
+      <point x="656" y="727" type="line"/>
+      <point x="605" y="727" type="line"/>
+      <point x="529" y="857" type="line"/>
+      <point x="462" y="792" type="line" smooth="yes"/>
+      <point x="432" y="763"/>
+      <point x="409" y="741"/>
+      <point x="394" y="727" type="curve"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="line"/>
+      <point x="461" y="703" type="line"/>
+      <point x="537" y="703" type="line"/>
+      <point x="645" y="0" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="539" y="210" type="line"/>
+      <point x="222" y="210" type="line"/>
+      <point x="94" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="263" type="curve"/>
+      <point x="533" y="261" type="line"/>
+      <point x="513" y="396"/>
+      <point x="481" y="629"/>
+      <point x="478" y="629" type="curve"/>
+      <point x="432" y="554"/>
+      <point x="358" y="432"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4247b4f1ff9d1453eca5d08ce92075a4dcebcdc4eee19ef9bb711da87b6cb5f1a198f507c2a55fc24a210d9db0a9ea675e9baec8c1230595e1bbabf0294a06b7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 210 52</string>
+          <string>hstem 629 74</string>
+          <string>hstem 683 20</string>
+          <string>hstem 857 40</string>
+          <string>vstem 29 627</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

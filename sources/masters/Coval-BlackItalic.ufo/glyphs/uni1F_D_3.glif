@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FD3" format="2">
+  <advance width="290"/>
+  <unicode hex="1FD3"/>
+  <outline>
+    <contour>
+      <point x="36" y="499" type="line"/>
+      <point x="54" y="578" type="line"/>
+      <point x="168" y="578" type="line"/>
+      <point x="150" y="499" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="496" type="line"/>
+      <point x="260" y="686" type="line"/>
+      <point x="418" y="686" type="line"/>
+      <point x="245" y="496" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="499" type="line"/>
+      <point x="326" y="578" type="line"/>
+      <point x="441" y="578" type="line"/>
+      <point x="423" y="499" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="144" type="curve" smooth="yes"/>
+      <point x="147" y="473" type="line"/>
+      <point x="298" y="473" type="line"/>
+      <point x="298" y="473"/>
+      <point x="298" y="473"/>
+      <point x="298" y="473" type="curve"/>
+      <point x="231" y="181" type="line"/>
+      <point x="231" y="181"/>
+      <point x="231" y="181"/>
+      <point x="231" y="181" type="curve"/>
+      <point x="226" y="160" type="line" smooth="yes"/>
+      <point x="224" y="153"/>
+      <point x="222" y="146"/>
+      <point x="221" y="139" type="curve"/>
+      <point x="244" y="139"/>
+      <point x="267" y="139"/>
+      <point x="290" y="139" type="curve" smooth="yes"/>
+      <point x="325" y="139" type="line"/>
+      <point x="299" y="43"/>
+      <point x="225" y="-11"/>
+      <point x="163" y="-11" type="curve" smooth="yes"/>
+      <point x="71" y="-11"/>
+      <point x="53" y="69"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ace7e954be384862b54caf343d3541b619950fd709cdbb513c59bd47c4ffc95ce5aa0805b1750605d447d2b0aa4b419c91230702bcf6f2a08e2573df761b35c3</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -11 150</string>
+          <string>hstem 453 20</string>
+          <string>hstem 499 79</string>
+          <string>vstem 36 405</string>
+          <string>vstem 65 156</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

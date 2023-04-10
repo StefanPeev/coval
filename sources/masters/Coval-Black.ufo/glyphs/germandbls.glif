@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="2">
+  <advance width="565"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="54" y="547" type="line" smooth="yes"/>
+      <point x="54" y="667"/>
+      <point x="147" y="696"/>
+      <point x="275" y="696" type="curve" smooth="yes"/>
+      <point x="341" y="696"/>
+      <point x="498" y="693"/>
+      <point x="498" y="556" type="curve" smooth="yes"/>
+      <point x="498" y="529"/>
+      <point x="491" y="466"/>
+      <point x="432" y="424" type="curve"/>
+      <point x="493" y="380"/>
+      <point x="527" y="300"/>
+      <point x="527" y="193" type="curve" smooth="yes"/>
+      <point x="527" y="30"/>
+      <point x="422" y="-11"/>
+      <point x="318" y="-11" type="curve" smooth="yes"/>
+      <point x="269" y="-11"/>
+      <point x="232" y="2"/>
+      <point x="210" y="11" type="curve"/>
+      <point x="240" y="94" type="line"/>
+      <point x="260" y="86"/>
+      <point x="284" y="79"/>
+      <point x="311" y="79" type="curve" smooth="yes"/>
+      <point x="378" y="79"/>
+      <point x="378" y="144"/>
+      <point x="378" y="189" type="curve" smooth="yes"/>
+      <point x="378" y="357"/>
+      <point x="311" y="380"/>
+      <point x="241" y="384" type="curve"/>
+      <point x="241" y="472" type="line"/>
+      <point x="282" y="473"/>
+      <point x="317" y="479"/>
+      <point x="335" y="503" type="curve" smooth="yes"/>
+      <point x="344" y="515"/>
+      <point x="349" y="532"/>
+      <point x="349" y="555" type="curve" smooth="yes"/>
+      <point x="349" y="607"/>
+      <point x="306" y="607"/>
+      <point x="284" y="607" type="curve" smooth="yes"/>
+      <point x="226" y="607"/>
+      <point x="202" y="601"/>
+      <point x="202" y="549" type="curve" smooth="yes"/>
+      <point x="202" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e4e4c2da6b3331fa358616cbc56265d9a746781d46380162dbab6c65fb14117dc8b1a12650a59d9e6fba713ccab5dfc3ef20815eb12bab792e6504e85d18a709</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -11 90</string>
+          <string>hstem 0 21</string>
+          <string>hstem 384 88</string>
+          <string>hstem 607 89</string>
+          <string>vstem 54 148</string>
+          <string>vstem 335 163</string>
+          <string>vstem 378 149</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni045A" format="2">
+  <advance width="785"/>
+  <unicode hex="045A"/>
+  <outline>
+    <contour>
+      <point x="81" y="0" type="line"/>
+      <point x="81" y="472" type="line"/>
+      <point x="142" y="472" type="line"/>
+      <point x="142" y="280" type="line"/>
+      <point x="389" y="280" type="line"/>
+      <point x="389" y="472" type="line"/>
+      <point x="451" y="472" type="line"/>
+      <point x="451" y="280" type="line"/>
+      <point x="551" y="280" type="line" smooth="yes"/>
+      <point x="701" y="280"/>
+      <point x="749" y="199"/>
+      <point x="749" y="144" type="curve" smooth="yes"/>
+      <point x="749" y="86"/>
+      <point x="719" y="0"/>
+      <point x="559" y="0" type="curve" smooth="yes"/>
+      <point x="389" y="0" type="line"/>
+      <point x="389" y="240" type="line"/>
+      <point x="142" y="240" type="line"/>
+      <point x="142" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="451" y="52" type="line"/>
+      <point x="536" y="52" type="line" smooth="yes"/>
+      <point x="607" y="52"/>
+      <point x="689" y="67"/>
+      <point x="689" y="145" type="curve" smooth="yes"/>
+      <point x="689" y="183"/>
+      <point x="651" y="240"/>
+      <point x="541" y="240" type="curve" smooth="yes"/>
+      <point x="451" y="240" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1cbf5063e13f67a3ed47ea1f3121f12b38b8886fece37a5c73ef4c53ad48fc0d1db550c3fba5cb61419b6638fdab9d7c1850f38612d9cf41681f483f6050c778</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 52</string>
+          <string>hstem 240 40</string>
+          <string>hstem 452 20</string>
+          <string>vstem 81 61</string>
+          <string>vstem 389 62</string>
+          <string>vstem 689 60</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

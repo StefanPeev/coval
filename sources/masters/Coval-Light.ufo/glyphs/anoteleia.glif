@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anoteleia" format="2">
+  <advance width="292"/>
+  <unicode hex="0387"/>
+  <outline>
+    <contour>
+      <point x="106" y="394" type="line"/>
+      <point x="106" y="472" type="line"/>
+      <point x="184" y="472" type="line"/>
+      <point x="184" y="394" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w292m106,394l106,472l184,472l184,394</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 394 78</string>
+          <string>vstem 106 78</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

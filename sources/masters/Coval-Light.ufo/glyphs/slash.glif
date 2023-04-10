@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="2">
+  <advance width="525"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="484" y="749" type="line"/>
+      <point x="107" y="-222" type="line"/>
+      <point x="40.1113" y="-222" type="line"/>
+      <point x="417.077" y="749" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w525m484,749l107,-222l40.11,-222l417.08,749</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -222 21</string>
+          <string>hstem 729 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10145" format="2">
+  <advance width="704"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="98" y="0" type="line"/>
+      <point x="258" y="695" type="line"/>
+      <point x="328" y="695" type="line"/>
+      <point x="181" y="55" type="line"/>
+      <point x="548" y="55" type="line"/>
+      <point x="695" y="695" type="line"/>
+      <point x="765" y="695" type="line"/>
+      <point x="605" y="0" type="line" name=".hr01"/>
+      <point x="382" y="0" type="line"/>
+      <point x="343" y="-167" type="line" name=".hr02"/>
+      <point x="282" y="-167" type="line"/>
+      <point x="321" y="0" type="line" name=".hr03"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w704m98,0l258,695l328,695l181,55l548,55l695,695l765,695l605,0l382,0l343,-167l282,-167l321,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -167 222</string>
+          <string>vstem 98 667</string>
+          <string>hstem 675 20</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 55</string>
+          <string>hstem 675 20</string>
+          <string>vstem 98 667</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -167 222</string>
+          <string>hstem 675 20</string>
+          <string>vstem 98 667</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 55</string>
+          <string>vstem 98 667</string>
+          <string>hstem 675 20</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr03</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

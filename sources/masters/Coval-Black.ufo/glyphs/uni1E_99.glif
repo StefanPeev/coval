@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E99" format="2">
+  <advance width="500"/>
+  <unicode hex="1E99"/>
+  <outline>
+    <component base="ring" xOffset="-117" yOffset="-2"/>
+    <component base="y"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w500</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -171 120</string>
+          <string>hstem 452 20</string>
+          <string>hstem 517 53</string>
+          <string>hstem 650 53</string>
+          <string>vstem 117 79</string>
+          <string>vstem 293 79</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

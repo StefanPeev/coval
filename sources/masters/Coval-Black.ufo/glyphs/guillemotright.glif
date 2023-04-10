@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="2">
+  <advance width="733"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="89" y="0" type="line"/>
+      <point x="296" y="239" type="line"/>
+      <point x="89" y="479" type="line"/>
+      <point x="218" y="479" type="line"/>
+      <point x="433" y="239" type="line"/>
+      <point x="218" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="314" y="0" type="line"/>
+      <point x="521" y="239" type="line"/>
+      <point x="314" y="479" type="line"/>
+      <point x="445" y="479" type="line"/>
+      <point x="658" y="239" type="line"/>
+      <point x="445" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w733m89,0l296,239l89,479l218,479l433,239l218,0m314,0l521,239l314,479l445,479l658,239l445,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 459 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

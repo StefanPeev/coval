@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five" format="2">
+  <advance width="550"/>
+  <unicode hex="0035"/>
+  <outline>
+    <contour>
+      <point x="27" y="89" type="curve"/>
+      <point x="90" y="194" type="line"/>
+      <point x="120.51" y="132.981"/>
+      <point x="173.462" y="89"/>
+      <point x="239" y="89" type="curve" smooth="yes"/>
+      <point x="324" y="89"/>
+      <point x="330" y="149"/>
+      <point x="330" y="224" type="curve" smooth="yes"/>
+      <point x="330" y="289"/>
+      <point x="322.788" y="368"/>
+      <point x="255" y="368" type="curve" smooth="yes"/>
+      <point x="213.717" y="368"/>
+      <point x="192" y="330"/>
+      <point x="192" y="288" type="curve"/>
+      <point x="74" y="288" type="line"/>
+      <point x="74" y="695" type="line"/>
+      <point x="458" y="695" type="line"/>
+      <point x="458" y="577" type="line"/>
+      <point x="220" y="577" type="line"/>
+      <point x="220" y="447" type="line"/>
+      <point x="236" y="453"/>
+      <point x="255" y="459"/>
+      <point x="283" y="459" type="curve" smooth="yes"/>
+      <point x="409" y="459"/>
+      <point x="494" y="393"/>
+      <point x="494" y="223" type="curve" smooth="yes"/>
+      <point x="494" y="27"/>
+      <point x="365" y="-21"/>
+      <point x="243" y="-21" type="curve" smooth="yes"/>
+      <point x="116" y="-21"/>
+      <point x="49" y="58"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d905a1099649c8f6d1d0d926600814ea7de2377653781115cd7afa63fc0014cfe29041f235d1df4de3b0d701c0e6a763cb738affe48ac82a9b3dfae02aa70a58</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -21 21</string>
+          <string>hstem 368 91</string>
+          <string>hstem 577 118</string>
+          <string>vstem 74 146</string>
+          <string>vstem 330 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

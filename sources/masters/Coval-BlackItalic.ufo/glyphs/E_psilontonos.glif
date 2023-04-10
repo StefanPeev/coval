@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilontonos" format="2">
+  <advance width="825"/>
+  <unicode hex="0388"/>
+  <outline>
+    <contour>
+      <point x="104" y="502" type="line"/>
+      <point x="209" y="695" type="line"/>
+      <point x="369" y="695" type="line"/>
+      <point x="193" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="0" type="line"/>
+      <point x="422" y="692" type="line"/>
+      <point x="917" y="692" type="line"/>
+      <point x="889" y="570" type="line"/>
+      <point x="557" y="573" type="line"/>
+      <point x="521" y="415" type="line"/>
+      <point x="822" y="415" type="line"/>
+      <point x="796" y="303" type="line"/>
+      <point x="495" y="303" type="line"/>
+      <point x="453" y="123" type="line"/>
+      <point x="800" y="127" type="line"/>
+      <point x="771" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6e36465b5c09be2b808d5217561e35e9e300d8da1363418b2532e73ca04a1975ca25594e56db7e0ba2c43c05dae466f58be30e44d892f2cc3c71de6b7efaa960</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 125</string>
+          <string>hstem 303 112</string>
+          <string>hstem 502 193</string>
+          <string>hstem 571 120</string>
+          <string>vstem 104 813</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

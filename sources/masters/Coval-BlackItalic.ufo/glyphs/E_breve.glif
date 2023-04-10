@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ebreve" format="2">
+  <advance width="642"/>
+  <unicode hex="0114"/>
+  <outline>
+    <contour>
+      <point x="358" y="923" type="curve"/>
+      <point x="447" y="923" type="line"/>
+      <point x="438" y="863"/>
+      <point x="507" y="856"/>
+      <point x="537" y="856" type="curve" smooth="yes"/>
+      <point x="574" y="856"/>
+      <point x="637" y="869"/>
+      <point x="655" y="923" type="curve"/>
+      <point x="745" y="923" type="line"/>
+      <point x="717" y="812"/>
+      <point x="607" y="745"/>
+      <point x="510" y="745" type="curve" smooth="yes"/>
+      <point x="415" y="745"/>
+      <point x="336" y="811"/>
+    </contour>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="244" y="692" type="line"/>
+      <point x="738" y="692" type="line"/>
+      <point x="710" y="570" type="line"/>
+      <point x="379" y="573" type="line"/>
+      <point x="343" y="415" type="line"/>
+      <point x="644" y="415" type="line"/>
+      <point x="618" y="303" type="line"/>
+      <point x="317" y="303" type="line"/>
+      <point x="275" y="123" type="line"/>
+      <point x="622" y="127" type="line"/>
+      <point x="593" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5dd8363e4db4b3d4277d1900cffb6b6fc603a8ba4033272a68ef448d6b4da7fc1b837a7ecf02d96e55332891adb7d71ffa020d19cae19b59aeb5c11175ad6584</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 125</string>
+          <string>hstem 303 112</string>
+          <string>hstem 571 120</string>
+          <string>hstem 745 111</string>
+          <string>vstem 84 661</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

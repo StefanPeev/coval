@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus" format="2">
+  <advance width="672"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="115" y="265" type="curve" smooth="yes"/>
+      <point x="119" y="283"/>
+      <point x="136" y="311"/>
+      <point x="178" y="311" type="curve" smooth="yes"/>
+      <point x="625" y="311" type="line" smooth="yes"/>
+      <point x="673" y="311"/>
+      <point x="670" y="279"/>
+      <point x="667" y="266" type="curve" smooth="yes"/>
+      <point x="663" y="250"/>
+      <point x="649" y="221"/>
+      <point x="604" y="221" type="curve" smooth="yes"/>
+      <point x="157" y="221" type="line"/>
+      <point x="110" y="222"/>
+      <point x="112" y="254"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w672m115,265c119,283 136,311 178,311l625,311c673,311 670,279 667,266c663,250 649,221 604,221l157,221c110,222 112,254 115,265</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 221 90</string>
+          <string>vstem 114 554</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

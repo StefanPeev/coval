@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scedilla" format="2">
+  <advance width="422"/>
+  <unicode hex="015F"/>
+  <outline>
+    <component base="cedilla" xOffset="-31" yOffset="-2.6667"/>
+    <component base="s"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w422</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -192 21</string>
+          <string>hstem -13 97</string>
+          <string>hstem 400 88</string>
+          <string>vstem 29 115</string>
+          <string>vstem 279 115</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

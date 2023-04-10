@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcommaaccent" format="2">
+  <advance width="725"/>
+  <unicode hex="0162"/>
+  <outline>
+    <contour>
+      <point x="222" y="-163" type="line"/>
+      <point x="333" y="-18" type="line"/>
+      <point x="383" y="-18" type="line"/>
+      <point x="280" y="-163" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="639" type="line"/>
+      <point x="197" y="692" type="line"/>
+      <point x="846" y="692" type="line"/>
+      <point x="834" y="639" type="line"/>
+      <point x="545" y="639" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="475" y="639" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w725m222,-163l333,-18l383,-18l280,-163m185,639l197,692l846,692l834,639l545,639l397,0l327,0l475,639</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -163 145</string>
+          <string>hstem 0 21</string>
+          <string>hstem 639 53</string>
+          <string>vstem 185 661</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

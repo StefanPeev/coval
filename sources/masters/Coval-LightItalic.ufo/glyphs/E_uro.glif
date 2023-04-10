@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="2">
+  <advance width="758"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="63" y="272" type="line"/>
+      <point x="102" y="331" type="line"/>
+      <point x="205" y="331" type="line"/>
+      <point x="209" y="347" type="line"/>
+      <point x="210" y="352"/>
+      <point x="212" y="358"/>
+      <point x="213" y="363" type="curve"/>
+      <point x="84" y="363" type="line"/>
+      <point x="123" y="422" type="line"/>
+      <point x="234" y="422" type="line"/>
+      <point x="303" y="574"/>
+      <point x="468" y="694"/>
+      <point x="635" y="694" type="curve" smooth="yes"/>
+      <point x="725" y="694"/>
+      <point x="797" y="663"/>
+      <point x="851" y="600" type="curve"/>
+      <point x="811" y="540" type="line"/>
+      <point x="762" y="600"/>
+      <point x="699" y="630"/>
+      <point x="622" y="630" type="curve" smooth="yes"/>
+      <point x="533" y="630"/>
+      <point x="386" y="580"/>
+      <point x="300" y="421" type="curve"/>
+      <point x="730" y="421" type="line"/>
+      <point x="691" y="362" type="line"/>
+      <point x="278" y="362" type="line"/>
+      <point x="276" y="351"/>
+      <point x="272" y="341"/>
+      <point x="270" y="330" type="curve"/>
+      <point x="668" y="330" type="line"/>
+      <point x="629" y="271" type="line"/>
+      <point x="266" y="271" type="line"/>
+      <point x="278" y="115"/>
+      <point x="395" y="65"/>
+      <point x="494" y="65" type="curve" smooth="yes"/>
+      <point x="579" y="65"/>
+      <point x="664" y="96"/>
+      <point x="749" y="157" type="curve"/>
+      <point x="734" y="92" type="line"/>
+      <point x="652" y="31"/>
+      <point x="566" y="0"/>
+      <point x="476" y="0" type="curve" smooth="yes"/>
+      <point x="316" y="0"/>
+      <point x="200" y="110"/>
+      <point x="200" y="272" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>805c1f69aea092dd9dc7e7586c937d49d12a5d06088f70e3378d91797581092892d04bee176c1a400dbda1eefd81539c8279a7722717d84738c516f6368936cb</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 65</string>
+          <string>hstem 271 59</string>
+          <string>hstem 362 59</string>
+          <string>hstem 630 64</string>
+          <string>vstem 200 66</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

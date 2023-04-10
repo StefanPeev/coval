@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edieresis" format="2">
+  <advance width="625"/>
+  <unicode hex="00CB"/>
+  <outline>
+    <contour>
+      <point x="550" y="815" type="line"/>
+      <point x="565" y="878" type="line"/>
+      <point x="628" y="878" type="line"/>
+      <point x="613" y="815" type="line"/>
+    </contour>
+    <contour>
+      <point x="346" y="815" type="line"/>
+      <point x="361" y="878" type="line"/>
+      <point x="424" y="878" type="line"/>
+      <point x="409" y="815" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="0" type="line"/>
+      <point x="258" y="693" type="line"/>
+      <point x="726" y="693" type="line"/>
+      <point x="714" y="640" type="line"/>
+      <point x="316" y="640" type="line"/>
+      <point x="257" y="387" type="line"/>
+      <point x="626" y="387" type="line"/>
+      <point x="614" y="334" type="line"/>
+      <point x="245" y="334" type="line"/>
+      <point x="181" y="56" type="line"/>
+      <point x="594" y="56" type="line"/>
+      <point x="581" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>550f2ea12aedc41e6e7a576c2b76531961f8fa1db8a7b9522e72f91e018c5e18ab8a1b75b4d48c3cc194141dcbcca2979799caa41709c83e28f7964265dcfa44</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 56</string>
+          <string>hstem 334 53</string>
+          <string>hstem 640 53</string>
+          <string>hstem 815 63</string>
+          <string>vstem 98 628</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

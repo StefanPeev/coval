@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FD1" format="2">
+  <advance width="292"/>
+  <unicode hex="1FD1"/>
+  <outline>
+    <component base="iota"/>
+    <contour>
+      <point x="-129" y="534" type="line"/>
+      <point x="-129" y="587" type="line"/>
+      <point x="279" y="587" type="line"/>
+      <point x="279" y="534" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w292m-129,534l-129,587l279,587l279,534</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -8 52</string>
+          <string>hstem 453 20</string>
+          <string>hstem 534 53</string>
+          <string>vstem 43 64</string>
+          <string>vstem 210 45</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F24" format="2">
+  <advance width="600"/>
+  <unicode hex="1F24"/>
+  <anchor x="160" y="0" name="bottom_gr_eta"/>
+  <outline>
+    <component base="uni1FCE" xOffset="90" yOffset="50"/>
+    <component base="eta"/>
+  </outline>
+</glyph>

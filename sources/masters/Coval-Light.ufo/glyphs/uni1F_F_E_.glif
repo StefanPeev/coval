@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FFE" format="2">
+  <advance width="233"/>
+  <unicode hex="1FFE"/>
+  <anchor x="147" y="646" name="top_left_caps_gr"/>
+  <anchor x="210" y="530" name="Iota_gr_tonos"/>
+  <outline>
+    <contour>
+      <point x="76" y="640" type="curve" smooth="yes"/>
+      <point x="76" y="695" type="line"/>
+      <point x="155" y="695" type="line"/>
+      <point x="155" y="616" type="line"/>
+      <point x="131" y="616" type="line"/>
+      <point x="155" y="536" type="line"/>
+      <point x="116" y="536" type="line"/>
+      <point x="100" y="568" type="line" smooth="yes"/>
+      <point x="92.9756" y="582.049"/>
+      <point x="76" y="618.814"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w233m76,640l76,695l155,695l155,616l131,616l155,536l116,536l100,568c92.98,582.05 76,618.81 76,640</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 536 21</string>
+          <string>hstem 675 20</string>
+          <string>vstem 76 79</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

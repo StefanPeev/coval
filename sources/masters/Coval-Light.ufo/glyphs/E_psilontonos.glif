@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilontonos" format="2">
+  <advance width="603"/>
+  <unicode hex="0388"/>
+  <outline>
+    <component base="Epsilon" xOffset="160"/>
+    <contour>
+      <point x="3" y="517" type="line"/>
+      <point x="85" y="695" type="line" name=".hr01"/>
+      <point x="149" y="695" type="line"/>
+      <point x="53" y="517" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w603m3,517l85,695l149,695l53,517</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 56</string>
+          <string>hstem 334 53</string>
+          <string>hstem 640 53</string>
+          <string>vstem 273 70</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 675 20</string>
+          <string>hstem 0 56</string>
+          <string>hstem 334 53</string>
+          <string>vstem 273 70</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0414.loclBGR" format="2">
+  <advance width="660"/>
+  <outline>
+    <contour>
+      <point x="613.614" y="55" type="line"/>
+      <point x="660" y="55" type="line"/>
+      <point x="660" y="-167" type="line"/>
+      <point x="604" y="-167" type="line"/>
+      <point x="604" y="0" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="56" y="-167" type="line"/>
+      <point x="0" y="-167" type="line"/>
+      <point x="0" y="55" type="line"/>
+      <point x="45.3076" y="55" type="line"/>
+      <point x="290" y="700" type="line"/>
+      <point x="368" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="110.723" y="55" type="line"/>
+      <point x="540.365" y="55" type="line"/>
+      <point x="326" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=0</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=0</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w660m613.61,55l660,55l660,-167l604,-167l604,0l56,0l56,-167l0,-167l0,55l45.31,55l290,700l368,700m110.72,55l540.37,55l326,630</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -167 21</string>
+          <string>hstem 0 55</string>
+          <string>hstem 680 20</string>
+          <string>vstem 0 56</string>
+          <string>vstem 604 56</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

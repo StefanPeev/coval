@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EC1" format="2">
+  <advance width="467"/>
+  <unicode hex="1EC1"/>
+  <outline>
+    <component base="uni02CB" xOffset="-43" yOffset="212"/>
+    <component base="ecircumflex"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w467</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -8 50</string>
+          <string>hstem 250 40</string>
+          <string>hstem 434 50</string>
+          <string>hstem 946 20</string>
+          <string>vstem 42 60</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

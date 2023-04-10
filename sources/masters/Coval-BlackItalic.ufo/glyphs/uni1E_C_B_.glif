@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ECB" format="2">
+  <advance width="256"/>
+  <unicode hex="1ECB"/>
+  <outline>
+    <contour>
+      <point x="51" y="0" type="line"/>
+      <point x="160" y="472" type="line"/>
+      <point x="307" y="472" type="line"/>
+      <point x="198" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="554" type="line"/>
+      <point x="216" y="686" type="line"/>
+      <point x="349" y="686" type="line"/>
+      <point x="319" y="554" type="line"/>
+    </contour>
+    <contour>
+      <point x="14" y="-192" type="line"/>
+      <point x="44" y="-59" type="line"/>
+      <point x="177" y="-59" type="line"/>
+      <point x="147" y="-192" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w256m51,0l160,472l307,472l198,0m186,554l216,686l349,686l319,554m14,-192l44,-59l177,-59l147,-192</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -192 133</string>
+          <string>hstem 0 21</string>
+          <string>hstem 452 20</string>
+          <string>hstem 554 132</string>
+          <string>vstem 14 335</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

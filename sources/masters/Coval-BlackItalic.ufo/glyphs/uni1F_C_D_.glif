@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FCD" format="2">
+  <advance width="306"/>
+  <unicode hex="1FCD"/>
+  <outline>
+    <contour>
+      <point x="266" y="695" type="line"/>
+      <point x="426" y="695" type="line"/>
+      <point x="443" y="502" type="line"/>
+      <point x="354" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="695" type="line"/>
+      <point x="249" y="695" type="line"/>
+      <point x="223" y="582" type="line"/>
+      <point x="156" y="527" type="line"/>
+      <point x="85" y="527" type="line"/>
+      <point x="127" y="576" type="line"/>
+      <point x="104" y="576" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w306m266,695l426,695l443,502l354,502m131,695l249,695l223,582l156,527l85,527l127,576l104,576</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 502 193</string>
+          <string>hstem 527 168</string>
+          <string>hstem 576 119</string>
+          <string>vstem 85 358</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

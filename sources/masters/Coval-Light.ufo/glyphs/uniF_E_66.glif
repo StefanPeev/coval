@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE66" format="2">
+  <advance width="350"/>
+  <unicode hex="FE66"/>
+  <outline>
+    <contour>
+      <point x="11" y="93" type="line"/>
+      <point x="11" y="143" type="line"/>
+      <point x="291" y="143" type="line"/>
+      <point x="291" y="93" type="line"/>
+    </contour>
+    <contour>
+      <point x="11" y="288" type="line"/>
+      <point x="11" y="338" type="line"/>
+      <point x="291" y="338" type="line"/>
+      <point x="291" y="288" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w350m11,93l11,143l291,143l291,93m11,288l11,338l291,338l291,288</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 93 50</string>
+          <string>hstem 288 50</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

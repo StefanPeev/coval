@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nacute" format="2">
+  <advance width="794"/>
+  <unicode hex="0143"/>
+  <outline>
+    <contour>
+      <point x="400" y="742" type="line"/>
+      <point x="568" y="858" type="line"/>
+      <point x="649" y="858" type="line" smooth="yes"/>
+      <point x="668" y="858"/>
+      <point x="687" y="857"/>
+      <point x="706" y="857" type="curve" smooth="yes"/>
+      <point x="764" y="857" type="line"/>
+      <point x="764" y="841" type="line"/>
+      <point x="623" y="781" type="line" smooth="yes"/>
+      <point x="467" y="714"/>
+      <point x="512" y="742"/>
+      <point x="476" y="742" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="244" y="695" type="line"/>
+      <point x="446" y="695" type="line"/>
+      <point x="597" y="167" type="line"/>
+      <point x="718" y="695" type="line"/>
+      <point x="858" y="695" type="line"/>
+      <point x="698" y="0" type="line"/>
+      <point x="495" y="0" type="line"/>
+      <point x="345" y="527" type="line"/>
+      <point x="223" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>537568343ea4eb1ebe77967abc03d5a16b11f8d1de17c670fc90275d04b49582d26e68acaf7de62296c6ef9d60f6953ec2b7572120da616d21d6f3088500b33d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 0 167</string>
+          <string>hstem 527 168</string>
+          <string>hstem 675 20</string>
+          <string>hstem 736 122</string>
+          <string>hstem 841 16</string>
+          <string>vstem 84 774</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

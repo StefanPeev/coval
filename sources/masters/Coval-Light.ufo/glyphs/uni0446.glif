@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0446" format="2">
+  <advance width="523"/>
+  <unicode hex="0446"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="472" type="line"/>
+      <point x="144" y="472" type="line"/>
+      <point x="144" y="50" type="line"/>
+      <point x="363" y="50" type="line"/>
+      <point x="363" y="472" type="line"/>
+      <point x="427" y="472" type="line"/>
+      <point x="427" y="50" type="line"/>
+      <point x="483" y="50" type="line" name=".hr01"/>
+      <point x="483" y="-139" type="line"/>
+      <point x="427" y="-139" type="line"/>
+      <point x="427" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043D</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w523m80,0l80,472l144,472l144,50l363,50l363,472l427,472l427,50l483,50l483,-139l427,-139l427,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 50</string>
+          <string>vstem 80 64</string>
+          <string>hstem 452 20</string>
+          <string>vstem 363 64</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 50</string>
+          <string>vstem 427 56</string>
+          <string>vstem 80 64</string>
+          <string>hstem 452 20</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcaron" format="2">
+  <advance width="346"/>
+  <unicode hex="0159"/>
+  <outline>
+    <contour>
+      <point x="226" y="667" type="line"/>
+      <point x="277" y="667" type="line"/>
+      <point x="352" y="569" type="line"/>
+      <point x="472" y="667" type="line"/>
+      <point x="523" y="667" type="line"/>
+      <point x="370" y="536" type="line"/>
+      <point x="319" y="536" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="188" y="470" type="line"/>
+      <point x="248" y="470" type="line"/>
+      <point x="230" y="394" type="line"/>
+      <point x="229" y="389"/>
+      <point x="227" y="381"/>
+      <point x="225" y="371" type="curve" smooth="yes"/>
+      <point x="221" y="348" type="line"/>
+      <point x="264" y="410"/>
+      <point x="336" y="476"/>
+      <point x="440" y="480" type="curve"/>
+      <point x="427" y="424" type="line"/>
+      <point x="306" y="422"/>
+      <point x="219" y="332"/>
+      <point x="197" y="236" type="curve" smooth="yes"/>
+      <point x="143" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a9371fb18b681ad873c5c2c89928cc856e382aeb627ff77eac7cba7d410bc2bfe5ce08a9ca5d212f4e65a0db237ddb4c2b7e54557fbe95ca850ed7214cc1a37c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 460 20</string>
+          <string>hstem 536 33</string>
+          <string>vstem 80 443</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

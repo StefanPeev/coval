@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0449" format="2">
+  <advance width="816"/>
+  <unicode hex="0449"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="472" type="line"/>
+      <point x="190" y="472" type="line"/>
+      <point x="190" y="100" type="line"/>
+      <point x="300" y="100" type="line"/>
+      <point x="300" y="472" type="line"/>
+      <point x="450" y="472" type="line"/>
+      <point x="450" y="100" type="line"/>
+      <point x="560" y="100" type="line"/>
+      <point x="560" y="472" type="line"/>
+      <point x="710" y="472" type="line"/>
+      <point x="710" y="100" type="line"/>
+      <point x="781" y="100" type="line"/>
+      <point x="781" y="-133" type="line"/>
+      <point x="651" y="-133" type="line"/>
+      <point x="651" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043D</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>656a58c9e2ec159f982ca705d65a28b15ed340b4b47f26de45b131e21850a5189aa6230376f0f395d666e7813bfcb5c324e03d6d8ce8bdbeb9f46e409917347d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 89</string>
+          <string>hstem 452 20</string>
+          <string>vstem 40 150</string>
+          <string>vstem 300 150</string>
+          <string>vstem 560 150</string>
+          <string>vstem 651 130</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

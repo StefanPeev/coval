@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SF240000" format="2">
+  <advance width="525"/>
+  <unicode hex="2551"/>
+  <outline>
+    <contour>
+      <point x="78" y="-222" type="line"/>
+      <point x="302" y="750" type="line"/>
+      <point x="364" y="750" type="line"/>
+      <point x="140" y="-222" type="line"/>
+    </contour>
+    <contour>
+      <point x="282" y="-222" type="line"/>
+      <point x="506" y="750" type="line"/>
+      <point x="567" y="750" type="line"/>
+      <point x="343" y="-222" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w525m78,-222l302,750l364,750l140,-222m282,-222l506,750l567,750l343,-222</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -222 972</string>
+          <string>vstem 78 489</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

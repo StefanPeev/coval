@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FD0" format="2">
+  <advance width="292"/>
+  <unicode hex="1FD0"/>
+  <outline>
+    <component base="iota"/>
+    <contour>
+      <point x="-129" y="694" type="curve"/>
+      <point x="-79" y="694" type="line"/>
+      <point x="-74" y="611"/>
+      <point x="18" y="589" name=".hr01"/>
+      <point x="76" y="589" type="curve" smooth="yes"/>
+      <point x="117" y="589"/>
+      <point x="223" y="603"/>
+      <point x="228" y="694" type="curve" name=".hr02"/>
+      <point x="279" y="694" type="line"/>
+      <point x="275" y="585"/>
+      <point x="168" y="534"/>
+      <point x="75" y="534" type="curve" smooth="yes"/>
+      <point x="-19" y="534"/>
+      <point x="-126" y="585"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w292m-129,694l-79,694c-74,611 18,589 76,589c117,589 223,603 228,694l279,694c275,585 168,534 75,534c-19,534 -126,585 -129,694</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 534 160</string>
+          <string>hstem -8 52</string>
+          <string>hstem 453 20</string>
+          <string>vstem -129 50</string>
+          <string>vstem 43 64</string>
+          <string>vstem 210 45</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 534 55</string>
+          <string>hstem -8 52</string>
+          <string>hstem 453 20</string>
+          <string>vstem 43 64</string>
+          <string>vstem 210 45</string>
+          <string>vstem -129 50</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 534 160</string>
+          <string>hstem -8 52</string>
+          <string>hstem 453 20</string>
+          <string>vstem 228 51</string>
+          <string>vstem 43 64</string>
+          <string>vstem -129 50</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

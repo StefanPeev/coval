@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+  <advance width="460"/>
+  <unicode hex="00A8"/>
+  <anchor x="230" y="550" name="top"/>
+  <outline>
+    <contour>
+      <point x="260" y="550" type="line"/>
+      <point x="260" y="678" type="line"/>
+      <point x="410" y="678" type="line"/>
+      <point x="410" y="550" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="550" type="line"/>
+      <point x="50" y="678" type="line"/>
+      <point x="200" y="678" type="line"/>
+      <point x="200" y="550" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="550"/>
+  <guideline angle="90" x="230" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=50</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=50</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w460m301,550l301,678l451,678l451,550m91,550l91,678l241,678l241,550</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 550 128</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

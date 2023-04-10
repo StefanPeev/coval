@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni040D" format="2">
+  <advance width="764"/>
+  <unicode hex="040D"/>
+  <outline>
+    <contour>
+      <point x="399" y="859" type="line"/>
+      <point x="594" y="859" type="line"/>
+      <point x="710" y="743" type="line"/>
+      <point x="635" y="743" type="line" smooth="yes"/>
+      <point x="541" y="743"/>
+      <point x="472" y="802"/>
+      <point x="392" y="843" type="curve"/>
+    </contour>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="244" y="695" type="line"/>
+      <point x="390" y="695" type="line"/>
+      <point x="300" y="303" type="line"/>
+      <point x="300" y="303"/>
+      <point x="300" y="303"/>
+      <point x="300" y="303" type="curve"/>
+      <point x="270" y="173" type="line"/>
+      <point x="388" y="345"/>
+      <point x="510" y="523"/>
+      <point x="628" y="695" type="curve"/>
+      <point x="827" y="695" type="line"/>
+      <point x="667" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="611" y="390" type="line"/>
+      <point x="611" y="390"/>
+      <point x="611" y="390"/>
+      <point x="611" y="390" type="curve"/>
+      <point x="641" y="520" type="line"/>
+      <point x="283" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d6dbfbd0ca277e128d199716f19073987bbea5ed437511c78400d55ae9967e536577101ed3d0f151b92446c6a7b92392b19eda7884a67d5acd897ee1daa1385a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 0 173</string>
+          <string>hstem 520 175</string>
+          <string>hstem 675 20</string>
+          <string>hstem 743 116</string>
+          <string>vstem 84 743</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

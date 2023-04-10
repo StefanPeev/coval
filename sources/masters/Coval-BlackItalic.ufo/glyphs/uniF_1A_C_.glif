@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF1AC" format="2">
+  <advance width="256"/>
+  <unicode hex="F1AC"/>
+  <outline>
+    <contour>
+      <point x="-16" y="166" type="line"/>
+      <point x="365" y="424" type="line"/>
+      <point x="405" y="353" type="line"/>
+      <point x="23" y="95" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w256m-16,166l365,424l405,353l23,95</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 95 329</string>
+          <string>vstem -16 421</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

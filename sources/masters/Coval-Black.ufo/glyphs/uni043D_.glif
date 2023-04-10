@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043D" format="2">
+  <advance width="536"/>
+  <unicode hex="043D"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="472" type="line"/>
+      <point x="190" y="472" type="line"/>
+      <point x="190" y="308.995" type="line"/>
+      <point x="346" y="308.995" type="line"/>
+      <point x="346" y="472" type="line"/>
+      <point x="496" y="472" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="346" y="208.995" type="line"/>
+      <point x="190" y="208.995" type="line"/>
+      <point x="190" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w536m40,0l40,472l190,472l190,308.99l346,308.99l346,472l496,472l496,0l346,0l346,208.99l190,208.99l190,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 214 90</string>
+          <string>hstem 452 20</string>
+          <string>vstem 40 150</string>
+          <string>vstem 346 150</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

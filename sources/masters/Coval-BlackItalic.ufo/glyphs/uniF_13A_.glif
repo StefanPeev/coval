@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF13A" format="2">
+  <advance width="428"/>
+  <unicode hex="F13A"/>
+  <outline>
+    <contour>
+      <point x="131" y="596" type="line"/>
+      <point x="154" y="699" type="line"/>
+      <point x="589" y="699" type="line"/>
+      <point x="566" y="596" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w428m131,596l154,699l589,699l566,596</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 596 103</string>
+          <string>vstem 131 458</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

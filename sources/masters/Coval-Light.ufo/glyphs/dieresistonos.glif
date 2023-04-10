@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="2">
+  <advance width="284"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="20" y="525" type="line"/>
+      <point x="20" y="584" type="line"/>
+      <point x="79" y="584" type="line"/>
+      <point x="79" y="525" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="517" type="line"/>
+      <point x="170" y="695" type="line"/>
+      <point x="234" y="695" type="line"/>
+      <point x="138" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="525" type="line"/>
+      <point x="205" y="584" type="line"/>
+      <point x="264" y="584" type="line"/>
+      <point x="264" y="525" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w284m20,525l20,584l79,584l79,525m88,517l170,695l234,695l138,517m205,525l205,584l264,584l264,525</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 517 178</string>
+          <string>hstem 675 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

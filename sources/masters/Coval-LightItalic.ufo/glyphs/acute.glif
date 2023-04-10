@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="2">
+  <advance width="525"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="331" y="538" type="line"/>
+      <point x="511" y="668" type="line"/>
+      <point x="576" y="668" type="line"/>
+      <point x="468" y="596" type="line" smooth="yes"/>
+      <point x="377" y="535"/>
+      <point x="388" y="538"/>
+      <point x="369" y="538" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w525m331,538l511,668l576,668l468,596c377,535 388,538 369,538</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 538 130</string>
+          <string>vstem 331 245</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF6D6" format="2">
+  <advance width="550"/>
+  <unicode hex="F6D6"/>
+  <outline>
+    <contour>
+      <point x="148" y="681" type="line"/>
+      <point x="313" y="681" type="line"/>
+      <point x="387" y="527" type="line"/>
+      <point x="356" y="527" type="line" smooth="yes"/>
+      <point x="319" y="527"/>
+      <point x="299" y="519"/>
+      <point x="269" y="553" type="curve"/>
+    </contour>
+    <contour>
+      <point x="326" y="681" type="line"/>
+      <point x="491" y="681" type="line"/>
+      <point x="564" y="527" type="line"/>
+      <point x="502" y="527" type="line" smooth="yes"/>
+      <point x="467" y="527"/>
+      <point x="464" y="534"/>
+      <point x="447" y="553" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w550m148,681l313,681l387,527l356,527c319,527 299,519 269,553m326,681l491,681l564,527l502,527c467,527 464,534 447,553</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 527 154</string>
+          <string>vstem 148 416</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

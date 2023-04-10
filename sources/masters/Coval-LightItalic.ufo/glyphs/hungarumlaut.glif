@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="525"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="419" y="538" type="line"/>
+      <point x="599" y="668" type="line"/>
+      <point x="664" y="668" type="line"/>
+      <point x="556" y="596" type="line" smooth="yes"/>
+      <point x="465" y="535"/>
+      <point x="476" y="538"/>
+      <point x="457" y="538" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="244" y="539" type="line"/>
+      <point x="424" y="669" type="line"/>
+      <point x="489" y="669" type="line"/>
+      <point x="381" y="597" type="line" smooth="yes"/>
+      <point x="290" y="536"/>
+      <point x="301" y="539"/>
+      <point x="282" y="539" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w525m419,538l599,668l664,668l556,596c465,535 476,538 457,538m244,539l424,669l489,669l381,597c290,536 301,539 282,539</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 538 131</string>
+          <string>vstem 244 420</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

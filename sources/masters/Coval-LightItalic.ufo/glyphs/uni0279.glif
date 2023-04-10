@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0279" format="2">
+  <advance width="346"/>
+  <unicode hex="0279"/>
+  <outline>
+    <contour>
+      <point x="12" y="-8" type="curve"/>
+      <point x="24" y="48" type="line"/>
+      <point x="128" y="50"/>
+      <point x="212" y="119"/>
+      <point x="242" y="192" type="curve" smooth="yes"/>
+      <point x="246" y="202"/>
+      <point x="250" y="217"/>
+      <point x="255" y="236" type="curve" smooth="yes"/>
+      <point x="276" y="314"/>
+      <point x="292" y="393"/>
+      <point x="310" y="472" type="curve"/>
+      <point x="373" y="472" type="line"/>
+      <point x="264" y="0" type="line" name=".hr01"/>
+      <point x="204" y="0" type="line"/>
+      <point x="222" y="76" type="line"/>
+      <point x="223" y="81"/>
+      <point x="225" y="89"/>
+      <point x="227" y="100" type="curve" smooth="yes"/>
+      <point x="232" y="124" type="line"/>
+      <point x="204" y="83"/>
+      <point x="129" y="-5"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>81807194ba0c543434de24c381ac08ff09852159515434a69e8d87490bc62a4a499de4b543e9cfb18fc0edfeb6b23267d5af6a61e3bce8087c4806bacf77ef30</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -8 21</string>
+          <string>vstem 12 361</string>
+          <string>hstem 452 20</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 452 20</string>
+          <string>vstem 12 361</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -8 21</string>
+          <string>vstem 12 361</string>
+          <string>hstem 452 20</string>
+        </array>
+        <key>pointTag</key>
+        <string>lsb</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

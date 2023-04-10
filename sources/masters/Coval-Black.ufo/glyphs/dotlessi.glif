@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="2">
+  <advance width="249"/>
+  <unicode hex="0131"/>
+  <anchor x="125" y="550" name="top"/>
+  <anchor x="100" y="10" name="bottom_0"/>
+  <outline>
+    <contour>
+      <point x="50.4966" y="0" type="line"/>
+      <point x="50.4966" y="472" type="line"/>
+      <point x="198.503" y="472" type="line"/>
+      <point x="198.503" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=50</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=50</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w249m50.5,0l50.5,472l198.5,472l198.5,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 452 20</string>
+          <string>vstem 51 147</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

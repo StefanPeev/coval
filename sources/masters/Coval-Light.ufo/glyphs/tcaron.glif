@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="2">
+  <advance width="379"/>
+  <unicode hex="0165"/>
+  <outline>
+    <component base="uni02BC" xOffset="131" yOffset="-87"/>
+    <component base="t"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w379</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -8 52</string>
+          <string>hstem 422 50</string>
+          <string>hstem 665 20</string>
+          <string>vstem 115 61</string>
+          <string>vstem 292 78</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

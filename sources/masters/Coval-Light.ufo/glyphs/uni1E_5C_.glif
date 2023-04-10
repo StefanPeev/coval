@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E5C" format="2">
+  <advance width="624"/>
+  <unicode hex="1E5C"/>
+  <outline>
+    <component base="uni02C9" xOffset="48.8865" yOffset="221"/>
+    <component base="uni1E5A"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w624</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -128 78</string>
+          <string>hstem 0 21</string>
+          <string>hstem 322 51</string>
+          <string>hstem 641 54</string>
+          <string>hstem 761 40</string>
+          <string>vstem 98 69</string>
+          <string>vstem 330 78</string>
+          <string>vstem 546 65</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

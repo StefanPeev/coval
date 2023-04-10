@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044C" format="2">
+  <advance width="505"/>
+  <unicode hex="044C"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="472" type="line"/>
+      <point x="190" y="472" type="line"/>
+      <point x="190" y="314" type="line"/>
+      <point x="262" y="314" type="line" smooth="yes"/>
+      <point x="350" y="314"/>
+      <point x="462" y="288.943"/>
+      <point x="462" y="151" type="curve" smooth="yes"/>
+      <point x="462" y="19.359"/>
+      <point x="332" y="0"/>
+      <point x="250" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="190" y="94" type="line"/>
+      <point x="231" y="94" type="line" smooth="yes"/>
+      <point x="285" y="94"/>
+      <point x="320" y="104.141"/>
+      <point x="320" y="153" type="curve" smooth="yes"/>
+      <point x="320" y="202.738"/>
+      <point x="279" y="214"/>
+      <point x="248" y="214" type="curve" smooth="yes"/>
+      <point x="190" y="214" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043D</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f2a96014ec80c1446fc8a41c228d9a29843ae362df5bfc678ec496f326abbc823a56cc6e6265c103bcfb9dd97b7b98f83d9888c6865136cf4c8af8bcb8668e3b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 94</string>
+          <string>hstem 214 100</string>
+          <string>hstem 452 20</string>
+          <string>vstem 40 150</string>
+          <string>vstem 320 142</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

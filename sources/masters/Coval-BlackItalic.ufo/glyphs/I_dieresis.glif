@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="2">
+  <advance width="331"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <contour>
+      <point x="380" y="766" type="line"/>
+      <point x="409" y="894" type="line"/>
+      <point x="537" y="894" type="line"/>
+      <point x="508" y="766" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="766" type="line"/>
+      <point x="201" y="894" type="line"/>
+      <point x="329" y="894" type="line"/>
+      <point x="300" y="766" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="0" type="line"/>
+      <point x="241" y="695" type="line"/>
+      <point x="404" y="695" type="line"/>
+      <point x="244" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w331m380,766l409,894l537,894l508,766m172,766l201,894l329,894l300,766m81,0l241,695l404,695l244,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 675 20</string>
+          <string>hstem 766 128</string>
+          <string>vstem 81 456</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="2">
+  <advance width="441"/>
+  <unicode hex="00AF"/>
+  <anchor x="221" y="550" name="top"/>
+  <outline>
+    <contour>
+      <point x="50.5526" y="550" type="line"/>
+      <point x="50.5526" y="650" type="line"/>
+      <point x="390.553" y="650" type="line"/>
+      <point x="390.553" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=50</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=50</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w441m92.55,550l92.55,650l432.55,650l432.55,550</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 598 102</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044B.loclBGR" format="2">
+  <advance width="692"/>
+  <outline>
+    <component base="uni044C.loclBGR"/>
+    <contour>
+      <point x="547" y="0" type="line"/>
+      <point x="547" y="472" type="line"/>
+      <point x="610" y="472" type="line"/>
+      <point x="610" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w692m547,0l547,472l610,472l610,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -8 52</string>
+          <string>hstem 0 21</string>
+          <string>hstem 452 20</string>
+          <string>vstem 82 61</string>
+          <string>vstem 396 60</string>
+          <string>vstem 547 63</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

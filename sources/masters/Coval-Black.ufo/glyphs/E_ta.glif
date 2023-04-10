@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eta" format="2">
+  <advance width="794"/>
+  <unicode hex="0397"/>
+  <anchor x="10" y="582" name="top_left_gr"/>
+  <anchor x="10" y="530" name="Eta_gr_top"/>
+  <anchor x="390" y="-50" name="bottom_gr_50"/>
+  <outline>
+    <component base="H" xOffset="40"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w794</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 305 112</string>
+          <string>hstem 675 20</string>
+          <string>vstem 84 164</string>
+          <string>vstem 534 164</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10049" format="2">
+  <advance width="703"/>
+  <unicode hex="042F"/>
+  <outline>
+    <contour>
+      <point x="14" y="0" type="line"/>
+      <point x="264" y="250" type="line"/>
+      <point x="313" y="300" type="line"/>
+      <point x="195" y="316"/>
+      <point x="161" y="381"/>
+      <point x="162" y="448" type="curve" smooth="yes"/>
+      <point x="162" y="464"/>
+      <point x="164" y="480"/>
+      <point x="168" y="496" type="curve"/>
+      <point x="203" y="670"/>
+      <point x="388" y="695"/>
+      <point x="509" y="695" type="curve" smooth="yes"/>
+      <point x="767" y="695" type="line"/>
+      <point x="607" y="0" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="515" y="295" type="line"/>
+      <point x="475" y="295" type="line"/>
+      <point x="334" y="147" type="line" smooth="yes"/>
+      <point x="287" y="97"/>
+      <point x="240" y="48"/>
+      <point x="194" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="324" y="496" type="curve" smooth="yes"/>
+      <point x="302" y="400"/>
+      <point x="358" y="393"/>
+      <point x="433" y="393" type="curve" smooth="yes"/>
+      <point x="538" y="393" type="line"/>
+      <point x="583" y="591" type="line"/>
+      <point x="473" y="591" type="line" smooth="yes"/>
+      <point x="394" y="591"/>
+      <point x="342" y="576"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9caa209667296a25de7d51144590e8131b6c078f43caa6d46ffb2795299844ae3ad16179245b16c1bfdfc6873f0b3c2ed214da0e46abed4d9ca9321c268c6e82</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 295 98</string>
+          <string>hstem 591 104</string>
+          <string>vstem 162 157</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

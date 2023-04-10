@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflex" format="2">
+  <advance width="467"/>
+  <unicode hex="00EA"/>
+  <outline>
+    <contour>
+      <point x="220" y="537" type="line"/>
+      <point x="382" y="675" type="line"/>
+      <point x="434" y="675" type="line"/>
+      <point x="532" y="537" type="line"/>
+      <point x="482" y="537" type="line"/>
+      <point x="400" y="643" type="line"/>
+      <point x="270" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="240" type="curve"/>
+      <point x="96" y="240"/>
+      <point x="96" y="239"/>
+      <point x="95" y="239" type="curve"/>
+      <point x="124" y="366"/>
+      <point x="241" y="483"/>
+      <point x="359" y="483" type="curve" smooth="yes"/>
+      <point x="428" y="483"/>
+      <point x="493" y="455"/>
+      <point x="500" y="349" type="curve" smooth="yes"/>
+      <point x="502" y="320"/>
+      <point x="499" y="287"/>
+      <point x="490" y="249" type="curve"/>
+      <point x="159" y="249" type="line"/>
+      <point x="145" y="188"/>
+      <point x="149" y="138"/>
+      <point x="171" y="99" type="curve" smooth="yes"/>
+      <point x="193" y="60"/>
+      <point x="227" y="41"/>
+      <point x="273" y="41" type="curve" smooth="yes"/>
+      <point x="331" y="41"/>
+      <point x="390" y="64"/>
+      <point x="451" y="110" type="curve"/>
+      <point x="443" y="55" type="line"/>
+      <point x="382" y="12"/>
+      <point x="321" y="-9"/>
+      <point x="261" y="-9" type="curve" smooth="yes"/>
+      <point x="138" y="-9"/>
+      <point x="65" y="101"/>
+    </contour>
+    <contour>
+      <point x="172" y="289" type="curve"/>
+      <point x="443" y="287" type="line"/>
+      <point x="455" y="372"/>
+      <point x="422" y="432"/>
+      <point x="345" y="432" type="curve" smooth="yes"/>
+      <point x="278" y="432"/>
+      <point x="205" y="369"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5d2e885151b213a7d4b42935c876463b815defedbd08fee9587ed6468cd1776084a56b41f6b96f46dc85b78c5fb451f87e878a0c7cafd866c827a115cfa0f6bd</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -9 50</string>
+          <string>hstem 249 39</string>
+          <string>hstem 432 51</string>
+          <string>hstem 643 32</string>
+          <string>vstem 90 61</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

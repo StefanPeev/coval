@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="2">
+  <advance width="519"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="236" y="706" type="curve" smooth="yes"/>
+      <point x="403" y="706"/>
+      <point x="457" y="646"/>
+      <point x="457" y="551" type="curve" smooth="yes"/>
+      <point x="457" y="416"/>
+      <point x="301" y="397"/>
+      <point x="301" y="253" type="curve" smooth="yes"/>
+      <point x="301" y="211" type="line"/>
+      <point x="180" y="211" type="line"/>
+      <point x="180" y="252" type="line" smooth="yes"/>
+      <point x="180" y="435"/>
+      <point x="306" y="449.715"/>
+      <point x="306" y="556" type="curve" smooth="yes"/>
+      <point x="306" y="595"/>
+      <point x="285" y="615"/>
+      <point x="244" y="615" type="curve" smooth="yes"/>
+      <point x="180" y="615"/>
+      <point x="130" y="581"/>
+      <point x="93" y="537" type="curve"/>
+      <point x="47" y="651" type="line"/>
+      <point x="97.9753" y="681.585"/>
+      <point x="157.687" y="706"/>
+    </contour>
+    <contour>
+      <point x="167" y="0" type="line"/>
+      <point x="167" y="147" type="line"/>
+      <point x="314" y="147" type="line"/>
+      <point x="314" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b89eeaa7ead3fd2a83629c30986e866514d475d14e96547a8d5be6a66291fb761ff9f4f97083270dbb855c669ec633d394af97cea55ed8880e8ac9880a9a7d0a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 147</string>
+          <string>hstem 615 91</string>
+          <string>vstem 167 147</string>
+          <string>vstem 306 151</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

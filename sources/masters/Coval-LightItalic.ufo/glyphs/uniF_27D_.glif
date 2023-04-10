@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF27D" format="2">
+  <advance width="525"/>
+  <unicode hex="F27D"/>
+  <outline>
+    <contour>
+      <point x="212" y="543" type="line"/>
+      <point x="401" y="732" type="line"/>
+      <point x="461" y="732" type="line"/>
+      <point x="562" y="543" type="line"/>
+      <point x="509" y="543" type="line"/>
+      <point x="421" y="687" type="line"/>
+      <point x="383" y="653"/>
+      <point x="331" y="605"/>
+      <point x="265" y="543" type="curve"/>
+    </contour>
+    <contour>
+      <point x="94" y="236" type="curve"/>
+      <point x="94" y="237"/>
+      <point x="94" y="237"/>
+      <point x="94" y="238" type="curve"/>
+      <point x="123" y="369"/>
+      <point x="249" y="486"/>
+      <point x="374" y="486" type="curve" smooth="yes"/>
+      <point x="493" y="486"/>
+      <point x="571" y="376"/>
+      <point x="537" y="237" type="curve" smooth="yes"/>
+      <point x="508" y="106"/>
+      <point x="381" y="-7"/>
+      <point x="260" y="-7" type="curve" smooth="yes"/>
+      <point x="143" y="-7"/>
+      <point x="62" y="96"/>
+    </contour>
+    <contour>
+      <point x="162" y="247" type="curve"/>
+      <point x="165" y="247" type="line"/>
+      <point x="156" y="209"/>
+      <point x="153" y="176"/>
+      <point x="156" y="148" type="curve" smooth="yes"/>
+      <point x="164" y="71"/>
+      <point x="227" y="46"/>
+      <point x="274" y="46" type="curve" smooth="yes"/>
+      <point x="352" y="46"/>
+      <point x="443" y="99"/>
+      <point x="478" y="247" type="curve" smooth="yes"/>
+      <point x="493" y="314"/>
+      <point x="488" y="362"/>
+      <point x="462" y="391" type="curve" smooth="yes"/>
+      <point x="436" y="420"/>
+      <point x="403" y="435"/>
+      <point x="363" y="435" type="curve" smooth="yes"/>
+      <point x="285" y="435"/>
+      <point x="193" y="384"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a2628b2988fe35697bcea2adbb481cb2ea13dd54e92732b1987729e19c43e1ab0281e707d188a2ddf43680ea7d9e9a143ccd04dcb9cc9b62d21e3f3f78a26cfa</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -7 53</string>
+          <string>hstem 435 51</string>
+          <string>hstem 687 45</string>
+          <string>vstem 87 69</string>
+          <string>vstem 486 59</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

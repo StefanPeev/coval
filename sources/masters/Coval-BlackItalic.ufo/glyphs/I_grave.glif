@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igrave" format="2">
+  <advance width="331"/>
+  <unicode hex="00CC"/>
+  <outline>
+    <contour>
+      <point x="171" y="858" type="line"/>
+      <point x="236" y="858"/>
+      <point x="301" y="858"/>
+      <point x="366" y="858" type="curve"/>
+      <point x="405" y="819"/>
+      <point x="444" y="782"/>
+      <point x="481" y="742" type="curve"/>
+      <point x="397" y="742" type="line" smooth="yes"/>
+      <point x="316" y="742"/>
+      <point x="236" y="802"/>
+      <point x="163" y="842" type="curve"/>
+    </contour>
+    <contour>
+      <point x="82" y="0" type="line"/>
+      <point x="242" y="695" type="line"/>
+      <point x="405" y="695" type="line"/>
+      <point x="245" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w331m171,858c236,858 301,858 366,858c405,819 444,782 481,742l397,742c316,742 236,802 163,842m82,0l242,695l405,695l245,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 675 20</string>
+          <string>hstem 742 116</string>
+          <string>vstem 82 399</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

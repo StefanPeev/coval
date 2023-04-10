@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FFD" format="2">
+  <advance width="175"/>
+  <unicode hex="1FFD"/>
+  <anchor x="135" y="606" name="top_left_caps_gr"/>
+  <outline>
+    <contour>
+      <point x="3" y="517" type="line"/>
+      <point x="85" y="695" type="line"/>
+      <point x="149" y="695" type="line"/>
+      <point x="53" y="517" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w175m3,517l85,695l149,695l53,517</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 517 21</string>
+          <string>hstem 675 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="2">
+  <advance width="581"/>
+  <unicode hex="013F"/>
+  <outline>
+    <component base="periodcentered" xOffset="260.5" yOffset="215"/>
+    <component base="L" xOffset="38"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w581</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 118</string>
+          <string>hstem 404 21</string>
+          <string>hstem 512 20</string>
+          <string>hstem 675 20</string>
+          <string>vstem 83 163</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0436" format="2">
+  <advance width="783"/>
+  <unicode hex="0436"/>
+  <anchor x="390" y="550" name="top"/>
+  <outline>
+    <contour>
+      <point x="5" y="0" type="line"/>
+      <point x="200" y="290" type="line"/>
+      <point x="24" y="472" type="line"/>
+      <point x="196" y="472" type="line"/>
+      <point x="325" y="340" type="line"/>
+      <point x="325" y="472" type="line"/>
+      <point x="456" y="472" type="line"/>
+      <point x="456" y="336" type="line"/>
+      <point x="588" y="472" type="line"/>
+      <point x="759" y="472" type="line"/>
+      <point x="583" y="289" type="line"/>
+      <point x="778" y="0" type="line"/>
+      <point x="626" y="0" type="line"/>
+      <point x="494" y="197" type="line"/>
+      <point x="456" y="157" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="325" y="0" type="line"/>
+      <point x="325" y="159" type="line"/>
+      <point x="289" y="197" type="line"/>
+      <point x="159" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="390" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=5</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=5</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d86c8cdf4579c3a09b8eb8900ed7f7a2aa5e0e5836dee5949d298fcc22704cc3526f90938ee3bb07272e1026a02dadccbc12c6fdd4bc3efc9522f57444234d10</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 452 20</string>
+          <string>vstem 325 131</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

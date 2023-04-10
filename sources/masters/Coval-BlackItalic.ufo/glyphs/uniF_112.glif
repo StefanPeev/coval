@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF112" format="2">
+  <advance width="550"/>
+  <unicode hex="F112"/>
+  <outline>
+    <contour>
+      <point x="327" y="531" type="line"/>
+      <point x="472" y="695" type="line"/>
+      <point x="635" y="695" type="line"/>
+      <point x="419" y="531" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w550m327,531l472,695l635,695l419,531</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 531 164</string>
+          <string>vstem 327 308</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcommaaccent" format="2">
+  <advance width="624"/>
+  <unicode hex="0156"/>
+  <outline>
+    <component base="uni0326" xOffset="413.5" yOffset="-16"/>
+    <component base="R" xOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w624</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -192 21</string>
+          <string>hstem -80 20</string>
+          <string>hstem 0 21</string>
+          <string>hstem 322 51</string>
+          <string>hstem 641 54</string>
+          <string>vstem 98 69</string>
+          <string>vstem 546 65</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
