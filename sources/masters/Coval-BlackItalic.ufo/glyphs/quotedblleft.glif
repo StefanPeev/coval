@@ -13,7 +13,7 @@
       <point x="419" y="650"/>
       <point x="454" y="695" type="curve"/>
       <point x="537" y="695" type="line"/>
-      <point x="475" y="586" type="line"/>
+      <point x="475" y="586" type="line" name=".hr01"/>
       <point x="509" y="586" type="line"/>
       <point x="475" y="439" type="line"/>
     </contour>
@@ -28,7 +28,7 @@
       <point x="204" y="673"/>
       <point x="221" y="695" type="curve"/>
       <point x="304" y="695" type="line"/>
-      <point x="242" y="586" type="line"/>
+      <point x="242" y="586" type="line" name=".hr02"/>
       <point x="276" y="586" type="line"/>
       <point x="242" y="439" type="line"/>
     </contour>
@@ -46,10 +46,27 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 439 147</string>
           <string>hstem 439 256</string>
           <string>vstem 95 442</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 439 256</string>
+          <string>vstem 95 442</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 439 256</string>
+          <string>vstem 95 442</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
       </dict>
     </array>
   </dict>

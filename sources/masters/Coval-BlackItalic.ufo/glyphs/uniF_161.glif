@@ -12,10 +12,10 @@
       <point x="565" y="695" type="line"/>
       <point x="678" y="531" type="line"/>
       <point x="518" y="531" type="line"/>
-      <point x="473" y="598" type="line"/>
+      <point x="473" y="598" type="line" name=".hr01"/>
       <point x="450" y="577"/>
       <point x="420" y="550"/>
-      <point x="398" y="531" type="curve"/>
+      <point x="398" y="531" type="curve" name=".hr02"/>
       <point x="258" y="531" type="line"/>
     </contour>
   </outline>
@@ -33,9 +33,26 @@
         <key>stems</key>
         <array>
           <string>hstem 531 164</string>
+          <string>vstem 145 533</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
           <string>hstem 598 97</string>
           <string>vstem 145 533</string>
         </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 531 164</string>
+          <string>vstem 145 533</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
       </dict>
     </array>
   </dict>

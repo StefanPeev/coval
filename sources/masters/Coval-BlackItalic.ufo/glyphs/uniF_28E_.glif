@@ -41,8 +41,8 @@
     </contour>
     <contour>
       <point x="113" y="527" type="line"/>
-      <point x="156" y="576" type="line"/>
-      <point x="132" y="576" type="line"/>
+      <point x="156" y="576" type="line" name=".hr01"/>
+      <point x="132" y="576" type="line" name=".hr02"/>
       <point x="159" y="695" type="line"/>
       <point x="278" y="695" type="line"/>
       <point x="267" y="647" type="line"/>
@@ -66,12 +66,43 @@
         <key>stems</key>
         <array>
           <string>hstem 0 168</string>
-          <string>hstem 305 112</string>
+          <string>vstem 113 1116</string>
           <string>hstem 502 193</string>
+          <string>hstem 305 112</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
           <string>hstem 527 168</string>
+          <string>vstem 113 1116</string>
+          <string>hstem 0 168</string>
+          <string>hstem 305 112</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
           <string>hstem 576 119</string>
+          <string>hstem 0 168</string>
+          <string>hstem 305 112</string>
           <string>vstem 113 1116</string>
         </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 527 168</string>
+          <string>vstem 113 1116</string>
+          <string>hstem 0 168</string>
+          <string>hstem 305 112</string>
+        </array>
+        <key>pointTag</key>
+        <string>lsb</string>
       </dict>
     </array>
   </dict>

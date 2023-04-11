@@ -27,7 +27,7 @@
       <point x="738" y="0" type="line"/>
       <point x="855" y="505" type="line"/>
       <point x="811" y="434" type="line"/>
-      <point x="550" y="21" type="line"/>
+      <point x="550" y="21" type="line" name=".hr01"/>
       <point x="422" y="21" type="line"/>
       <point x="357" y="399" type="line"/>
       <point x="357" y="399"/>
@@ -52,12 +52,22 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -162 21</string>
-          <string>hstem 0 21</string>
           <string>hstem 0 117</string>
-          <string>hstem 675 20</string>
           <string>vstem 86 952</string>
+          <string>hstem 675 20</string>
+          <string>hstem -162 21</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 117</string>
+          <string>vstem 86 952</string>
+          <string>hstem -162 21</string>
+          <string>hstem 675 20</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>

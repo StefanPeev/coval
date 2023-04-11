@@ -7735,53 +7735,6 @@ lookup ss01StyleSet1inLatinlookup24 {
     sub \ygrave by \uniF280 ;
 } ss01StyleSet1inLatinlookup24;
 
-feature aalt {
-
- script cyrl;
-     language dflt ;
-      lookup aaltAccessAllAlternateslookup0;
-      lookup aaltAccessAllAlternateslookup1;
-     language BGR  exclude_dflt;
-      lookup aaltAccessAllAlternateslookup0;
-      lookup aaltAccessAllAlternateslookup1;
-     language MKD  exclude_dflt;
-      lookup aaltAccessAllAlternateslookup0;
-      lookup aaltAccessAllAlternateslookup1;
-     language RUS  exclude_dflt;
-      lookup aaltAccessAllAlternateslookup0;
-      lookup aaltAccessAllAlternateslookup1;
-     language SRB  exclude_dflt;
-      lookup aaltAccessAllAlternateslookup0;
-      lookup aaltAccessAllAlternateslookup1;
-
- script grek;
-     language dflt ;
-      lookup aaltAccessAllAlternateslookup0;
-      lookup aaltAccessAllAlternateslookup1;
-
- script latn;
-     language dflt ;
-      lookup aaltAccessAllAlternateslookup0;
-      lookup aaltAccessAllAlternateslookup1;
-     language AZE  exclude_dflt;
-      lookup aaltAccessAllAlternateslookup0;
-      lookup aaltAccessAllAlternateslookup1;
-     language NLD  exclude_dflt;
-      lookup aaltAccessAllAlternateslookup0;
-      lookup aaltAccessAllAlternateslookup1;
-     language TRK  exclude_dflt;
-      lookup aaltAccessAllAlternateslookup0;
-      lookup aaltAccessAllAlternateslookup1;
-     language VIT  exclude_dflt;
-      lookup aaltAccessAllAlternateslookup0;
-      lookup aaltAccessAllAlternateslookup1;
-
- script thai;
-     language dflt ;
-      lookup aaltAccessAllAlternateslookup0;
-      lookup aaltAccessAllAlternateslookup1;
-} aalt;
-
 feature locl {
 
  script cyrl;

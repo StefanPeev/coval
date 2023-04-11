@@ -7,9 +7,9 @@
       <point x="0" y="503" type="line"/>
       <point x="21" y="593" type="line"/>
       <point x="220" y="593" type="line"/>
-      <point x="243" y="695" type="line"/>
+      <point x="243" y="695" type="line" name=".hr01"/>
       <point x="406" y="695" type="line"/>
-      <point x="383" y="593" type="line"/>
+      <point x="383" y="593" type="line" name=".hr02"/>
       <point x="705" y="593" type="line"/>
       <point x="684" y="503" type="line"/>
       <point x="362" y="503" type="line"/>
@@ -55,12 +55,33 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 503 90</string>
           <string>hstem 0 21</string>
           <string>hstem 377 112</string>
-          <string>hstem 503 90</string>
-          <string>hstem 503 192</string>
           <string>vstem 511 165</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 503 192</string>
+          <string>hstem 0 21</string>
+          <string>hstem 377 112</string>
+          <string>vstem 511 165</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 503 90</string>
+          <string>hstem 377 112</string>
+          <string>hstem 0 21</string>
+          <string>vstem 511 165</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
       </dict>
     </array>
   </dict>
