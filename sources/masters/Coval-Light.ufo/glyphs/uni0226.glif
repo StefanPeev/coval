@@ -2,9 +2,10 @@
 <glyph name="uni0226" format="2">
   <advance width="676"/>
   <unicode hex="0226"/>
-  <anchor x="331" y="-50" name="bottom_50"/>
+  <anchor x="331" y="-60" name="bottom_60"/>
   <anchor x="604" y="10" name="bottom_0"/>
-  <anchor x="338" y="-75" name="bottom"/>
+  <anchor x="334" y="671" name="top.Ringabove"/>
+  <anchor x="-20" y="352" name="left"/>
   <anchor x="334" y="930" name="top_D"/>
   <outline>
     <component base="A"/>

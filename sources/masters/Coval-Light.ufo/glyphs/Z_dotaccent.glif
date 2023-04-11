@@ -2,6 +2,7 @@
 <glyph name="Zdotaccent" format="2">
   <advance width="571"/>
   <unicode hex="017B"/>
+  <anchor x="289" y="-60" name="bottom_60"/>
   <anchor x="300" y="930" name="top_D"/>
   <outline>
     <component base="Z"/>

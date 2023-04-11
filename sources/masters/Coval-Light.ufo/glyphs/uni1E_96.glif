@@ -2,33 +2,19 @@
 <glyph name="uni1E96" format="2">
   <advance width="517"/>
   <unicode hex="1E96"/>
+  <anchor x="112" y="790" name="top"/>
   <outline>
-    <component base="uni0331" xOffset="513.5" yOffset="-10"/>
     <component base="h"/>
+    <component base="uni0331" xOffset="483"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w517</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -104 54</string>
-          <string>hstem 0 21</string>
-          <string>hstem 430 50</string>
-          <string>hstem 675 20</string>
-          <string>vstem 80 64</string>
-          <string>vstem 371 64</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>h+uni0331</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0326" format="2">
   <unicode hex="0326"/>
+  <anchor x="-105" y="-60" name="_bottom_60"/>
   <outline>
     <contour>
-      <point x="-160" y="-42" type="line"/>
-      <point x="-51" y="-42" type="line"/>
-      <point x="-51" y="-132" type="line"/>
-      <point x="-52" y="-146"/>
-      <point x="-54" y="-149"/>
-      <point x="-63" y="-163" type="curve"/>
-      <point x="-100" y="-225" type="line"/>
-      <point x="-164" y="-225" type="line"/>
-      <point x="-137" y="-150" type="line"/>
-      <point x="-160" y="-150" type="line"/>
+      <point x="-160" y="-60" type="line"/>
+      <point x="-51" y="-60" type="line"/>
+      <point x="-51" y="-150" type="line"/>
+      <point x="-52" y="-164"/>
+      <point x="-54" y="-167"/>
+      <point x="-63" y="-181" type="curve"/>
+      <point x="-100" y="-243" type="line"/>
+      <point x="-164" y="-243" type="line"/>
+      <point x="-137" y="-168" type="line"/>
+      <point x="-160" y="-168" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="-105" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -22,14 +24,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-160,-42l-51,-42l-51,-132c-52,-146 -54,-149 -63,-163l-100,-225l-164,-225l-137,-150l-160,-150</string>
+    <string>w0m-160,-60l-51,-60l-51,-150c-52,-164 -54,-167 -63,-181l-100,-243l-164,-243l-137,-168l-160,-168</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -225 21</string>
-          <string>hstem -62 20</string>
+          <string>hstem -60 20</string>
         </array>
       </dict>
     </array>

@@ -2,8 +2,19 @@
 <glyph name="uni1E6D" format="2">
   <advance width="404"/>
   <unicode hex="1E6D"/>
+  <anchor x="150" y="720" name="top"/>
   <outline>
-    <component base="dotbelowcomb" xOffset="335.5" yOffset="-65"/>
     <component base="t"/>
+    <component base="dotbelowcomb" xOffset="367"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>t+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

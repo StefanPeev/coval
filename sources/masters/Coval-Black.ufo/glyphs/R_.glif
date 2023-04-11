@@ -3,6 +3,7 @@
   <advance width="666"/>
   <unicode hex="0052"/>
   <anchor x="290" y="790" name="top"/>
+  <anchor x="320" y="-60" name="bottom_60"/>
   <outline>
     <contour>
       <point x="45" y="0" type="line"/>
@@ -14,9 +15,7 @@
       <point x="599" y="396"/>
       <point x="544" y="336"/>
       <point x="451" y="315" type="curve"/>
-      <point x="511" y="213"/>
-      <point x="578" y="101"/>
-      <point x="636" y="0" type="curve"/>
+      <point x="636" y="0" type="line"/>
       <point x="469" y="0" type="line"/>
       <point x="297" y="302" type="line"/>
       <point x="205" y="302" type="line"/>
@@ -45,7 +44,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>33abbf4cce0ccf450540c8123060110deb92d24186387eaf33bf5bba496b0917346cdbe5d2c7fc24566450df96558562f9354b775d19b6a124c58876759068c7</string>
+    <string>e6a74e39ce61e2b98fbde6dc9c4d47e0a6e87eebb8ed0285e72640a5f3a1097e9cebd95a69cc8ff89488827c42505ee9dbf661faddfd10a2e06c642c874346cc</string>
     <key>hintSetList</key>
     <array>
       <dict>

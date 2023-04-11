@@ -3,6 +3,7 @@
   <advance width="580"/>
   <unicode hex="005A"/>
   <anchor x="297" y="790" name="top"/>
+  <anchor x="306" y="-60" name="bottom_60"/>
   <outline>
     <contour>
       <point x="10" y="0" type="line"/>
@@ -28,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w580m53,0l53,78l400,578l68,578l68,695l607,695l607,620l261,121l613,121l613,0</string>
+    <string>w580m10,0l10,78l357,578l25,578l25,695l564,695l564,620l218,121l570,121l570,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

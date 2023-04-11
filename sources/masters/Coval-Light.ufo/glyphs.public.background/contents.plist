@@ -4,22 +4,20 @@
 <dict>
   <key>.notdef</key>
   <string>_notdef.glif</string>
-  <key>A</key>
-  <string>A_.glif</string>
   <key>Adieresis</key>
   <string>A_dieresis.glif</string>
   <key>Aogonek</key>
   <string>A_ogonek.glif</string>
+  <key>Aring</key>
+  <string>A_ring.glif</string>
+  <key>B</key>
+  <string>B_.glif</string>
+  <key>D</key>
+  <string>D_.glif</string>
   <key>E</key>
   <string>E_.glif</string>
-  <key>H</key>
-  <string>H_.glif</string>
-  <key>I</key>
-  <string>I_.glif</string>
-  <key>O</key>
-  <string>O_.glif</string>
-  <key>T</key>
-  <string>T_.glif</string>
+  <key>N</key>
+  <string>N_.glif</string>
   <key>Upsilon1</key>
   <string>U_psilon1.glif</string>
   <key>a</key>
@@ -28,8 +26,10 @@
   <string>acute.glif</string>
   <key>acutecomb</key>
   <string>acutecomb.glif</string>
-  <key>b</key>
-  <string>b.glif</string>
+  <key>adieresis</key>
+  <string>adieresis.glif</string>
+  <key>aring</key>
+  <string>aring.glif</string>
   <key>bar</key>
   <string>bar.glif</string>
   <key>brokenbar</key>
@@ -44,36 +44,30 @@
   <string>dieresis.glif</string>
   <key>dotaccent</key>
   <string>dotaccent.glif</string>
+  <key>dotbelowcomb</key>
+  <string>dotbelowcomb.glif</string>
   <key>dotlessi</key>
   <string>dotlessi.glif</string>
-  <key>e</key>
-  <string>e.glif</string>
   <key>edieresis</key>
   <string>edieresis.glif</string>
   <key>f</key>
   <string>f.glif</string>
   <key>g</key>
   <string>g.glif</string>
+  <key>gbreve</key>
+  <string>gbreve.glif</string>
   <key>grave</key>
   <string>grave.glif</string>
   <key>gravecomb</key>
   <string>gravecomb.glif</string>
-  <key>h</key>
-  <string>h.glif</string>
   <key>hcircumflex</key>
   <string>hcircumflex.glif</string>
-  <key>i</key>
-  <string>i.glif</string>
   <key>igrave</key>
   <string>igrave.glif</string>
-  <key>k</key>
-  <string>k.glif</string>
-  <key>l</key>
-  <string>l.glif</string>
   <key>macron</key>
   <string>macron.glif</string>
-  <key>n</key>
-  <string>n.glif</string>
+  <key>napostrophe</key>
+  <string>napostrophe.glif</string>
   <key>o</key>
   <string>o.glif</string>
   <key>omega1</key>
@@ -88,6 +82,8 @@
   <string>phi1.glif</string>
   <key>r</key>
   <string>r.glif</string>
+  <key>ring</key>
+  <string>ring.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>t</key>
@@ -112,6 +108,8 @@
   <string>uni01A_9.glif</string>
   <key>uni01DE</key>
   <string>uni01D_E_.glif</string>
+  <key>uni01DF</key>
+  <string>uni01D_F_.glif</string>
   <key>uni01E3</key>
   <string>uni01E_3.glif</string>
   <key>uni01EA</key>
@@ -146,10 +144,22 @@
   <string>uni0307.glif</string>
   <key>uni0308</key>
   <string>uni0308.glif</string>
+  <key>uni030A</key>
+  <string>uni030A_.glif</string>
   <key>uni030C</key>
   <string>uni030C_.glif</string>
+  <key>uni0324</key>
+  <string>uni0324.glif</string>
+  <key>uni0325</key>
+  <string>uni0325.glif</string>
+  <key>uni0326</key>
+  <string>uni0326.glif</string>
   <key>uni0328</key>
   <string>uni0328.glif</string>
+  <key>uni032D</key>
+  <string>uni032D_.glif</string>
+  <key>uni0331</key>
+  <string>uni0331.glif</string>
   <key>uni03D0</key>
   <string>uni03D_0.glif</string>
   <key>uni03D3</key>
@@ -226,10 +236,16 @@
   <string>uni0585.glif</string>
   <key>uni0589</key>
   <string>uni0589.glif</string>
+  <key>uni1DC5</key>
+  <string>uni1D_C_5.glif</string>
+  <key>uni1DC8</key>
+  <string>uni1D_C_8.glif</string>
   <key>uni1E5D</key>
   <string>uni1E_5D_.glif</string>
   <key>uni1EAB</key>
   <string>uni1E_A_B_.glif</string>
+  <key>uni1EF5</key>
+  <string>uni1E_F_5.glif</string>
   <key>uni1FD0</key>
   <string>uni1F_D_0.glif</string>
   <key>uni1FD1</key>
@@ -238,9 +254,11 @@
   <string>uni2322.glif</string>
   <key>uogonek</key>
   <string>uogonek.glif</string>
-  <key>v</key>
-  <string>v.glif</string>
+  <key>w</key>
+  <string>w.glif</string>
   <key>y</key>
   <string>y.glif</string>
+  <key>z</key>
+  <string>z.glif</string>
 </dict>
 </plist>

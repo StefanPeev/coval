@@ -2,31 +2,19 @@
 <glyph name="uni1E37" format="2">
   <advance width="250"/>
   <unicode hex="1E37"/>
+  <anchor x="125" y="790" name="top"/>
   <outline>
-    <component base="dotbelowcomb" xOffset="277" yOffset="-54"/>
     <component base="l"/>
+    <component base="dotbelowcomb" xOffset="279"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w250</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -190 161</string>
-          <string>hstem 0 21</string>
-          <string>hstem 666 20</string>
-          <string>vstem 51 147</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,0 +1,1 @@
+The latest releases of Coval font family could be download at [Local Fonts](https://localfonts.eu/shop/sans-serif-fonts/coval/). Please follow the link.

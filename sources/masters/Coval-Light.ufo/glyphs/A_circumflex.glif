@@ -2,9 +2,10 @@
 <glyph name="Acircumflex" format="2">
   <advance width="676"/>
   <unicode hex="00C2"/>
-  <anchor x="331" y="-50" name="bottom_50"/>
+  <anchor x="331" y="-60" name="bottom_60"/>
   <anchor x="604" y="10" name="bottom_0"/>
-  <anchor x="338" y="-75" name="bottom"/>
+  <anchor x="334" y="671" name="top.Ringabove"/>
+  <anchor x="-20" y="352" name="left"/>
   <outline>
     <component base="A"/>
     <component base="uni0302" xOffset="597" yOffset="240"/>

@@ -2,13 +2,13 @@
 <glyph name="uni0308" format="2">
   <unicode hex="0308"/>
   <anchor x="-254" y="550" name="_top"/>
-  <anchor x="-252" y="690" name="top_D"/>
+  <anchor x="-254" y="690" name="top_D"/>
   <outline>
     <component base="dieresis" xOffset="-451.476" yOffset="0.0676"/>
   </outline>
   <guideline angle="0" x="0" y="550"/>
   <guideline angle="0" x="0" y="550"/>
-  <guideline angle="90" x="-269" y="0"/>
+  <guideline angle="90" x="-254" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>

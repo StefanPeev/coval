@@ -1,36 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0325" format="2">
   <unicode hex="0325"/>
+  <anchor x="-362" y="-60" name="_bottom_60"/>
   <outline>
-    <contour>
-      <point x="-491" y="-141" type="curve" smooth="yes"/>
-      <point x="-491" y="-67"/>
-      <point x="-432" y="-47"/>
-      <point x="-361" y="-47" type="curve" smooth="yes"/>
-      <point x="-251" y="-47"/>
-      <point x="-234" y="-102"/>
-      <point x="-234" y="-140" type="curve" smooth="yes"/>
-      <point x="-234" y="-214"/>
-      <point x="-291" y="-235"/>
-      <point x="-363" y="-235" type="curve" smooth="yes"/>
-      <point x="-474" y="-235"/>
-      <point x="-491" y="-179"/>
-    </contour>
-    <contour>
-      <point x="-411" y="-140" type="curve" smooth="yes"/>
-      <point x="-411" y="-175"/>
-      <point x="-395" y="-181"/>
-      <point x="-363" y="-182" type="curve"/>
-      <point x="-326" y="-182"/>
-      <point x="-313" y="-172"/>
-      <point x="-313" y="-141" type="curve" smooth="yes"/>
-      <point x="-313" y="-108"/>
-      <point x="-329" y="-100"/>
-      <point x="-362" y="-100" type="curve" smooth="yes"/>
-      <point x="-397" y="-100"/>
-      <point x="-411" y="-108"/>
-    </contour>
+    <component base="ring" xOffset="-530.698" yOffset="-836"/>
   </outline>
+  <guideline angle="0" x="0" y="-60"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -38,7 +13,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>587f9f30597789c0c7c8b01081f55549cc8dd6b958217925a73099d28d5550cfb861442301ac9b24c9c9aa7209fb2831c3f88304a5ac511a143e1ced60361197</string>
+    <string>w0</string>
     <key>hintSetList</key>
     <array>
       <dict>

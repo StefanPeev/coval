@@ -4,6 +4,8 @@
 <dict>
   <key>.notdef</key>
   <string>_notdef.glif</string>
+  <key>A</key>
+  <string>A_.glif</string>
   <key>AE</key>
   <string>A_E_.glif</string>
   <key>AEacute</key>
@@ -28,6 +30,8 @@
   <string>A_ringacute.glif</string>
   <key>Atilde</key>
   <string>A_tilde.glif</string>
+  <key>B</key>
+  <string>B_.glif</string>
   <key>Beta</key>
   <string>B_eta.glif</string>
   <key>Cacute</key>
@@ -42,6 +46,8 @@
   <string>C_dotaccent.glif</string>
   <key>Chi</key>
   <string>C_hi.glif</string>
+  <key>D</key>
+  <string>D_.glif</string>
   <key>Dcaron</key>
   <string>D_caron.glif</string>
   <key>Dcroat</key>
@@ -94,8 +100,12 @@
   <string>G_commaaccent.glif</string>
   <key>Gdotaccent</key>
   <string>G_dotaccent.glif</string>
+  <key>H</key>
+  <string>H_.glif</string>
   <key>Hcircumflex</key>
   <string>H_circumflex.glif</string>
+  <key>I</key>
+  <string>I_.glif</string>
   <key>IJ</key>
   <string>I_J_.glif</string>
   <key>Iacute</key>
@@ -152,8 +162,6 @@
   <string>N_tilde.glif</string>
   <key>Nu</key>
   <string>N_u.glif</string>
-  <key>O</key>
-  <string>O_.glif</string>
   <key>OE</key>
   <string>O_E_.glif</string>
   <key>Oacute</key>
@@ -192,6 +200,8 @@
   <string>P_i.glif</string>
   <key>Psi</key>
   <string>P_si.glif</string>
+  <key>R</key>
+  <string>R_.glif</string>
   <key>Racute</key>
   <string>R_acute.glif</string>
   <key>Rcaron</key>
@@ -398,8 +408,6 @@
   <string>copyright.glif</string>
   <key>currency</key>
   <string>currency.glif</string>
-  <key>d</key>
-  <string>d.glif</string>
   <key>dagger</key>
   <string>dagger.glif</string>
   <key>daggerdbl</key>
@@ -520,8 +528,6 @@
   <string>guilsinglleft.glif</string>
   <key>guilsinglright</key>
   <string>guilsinglright.glif</string>
-  <key>h</key>
-  <string>h.glif</string>
   <key>hbar</key>
   <string>hbar.glif</string>
   <key>hcircumflex</key>
@@ -622,8 +628,6 @@
   <string>nu.glif</string>
   <key>numbersign</key>
   <string>numbersign.glif</string>
-  <key>o</key>
-  <string>o.glif</string>
   <key>oacute</key>
   <string>oacute.glif</string>
   <key>obreve</key>
@@ -2026,8 +2030,6 @@
   <string>uni1E_02.glif</string>
   <key>uni1E03</key>
   <string>uni1E_03.glif</string>
-  <key>uni1E04</key>
-  <string>uni1E_04.glif</string>
   <key>uni1E05</key>
   <string>uni1E_05.glif</string>
   <key>uni1E06</key>
@@ -2048,8 +2050,6 @@
   <string>uni1E_0D_.glif</string>
   <key>uni1E0E</key>
   <string>uni1E_0E_.glif</string>
-  <key>uni1E0F</key>
-  <string>uni1E_0F_.glif</string>
   <key>uni1E10</key>
   <string>uni1E_10.glif</string>
   <key>uni1E11</key>
@@ -2352,10 +2352,6 @@
   <string>uni1E_C_A_.glif</string>
   <key>uni1ECB</key>
   <string>uni1E_C_B_.glif</string>
-  <key>uni1ECC</key>
-  <string>uni1E_C_C_.glif</string>
-  <key>uni1ECD</key>
-  <string>uni1E_C_D_.glif</string>
   <key>uni1ECE</key>
   <string>uni1E_C_E_.glif</string>
   <key>uni1ECF</key>

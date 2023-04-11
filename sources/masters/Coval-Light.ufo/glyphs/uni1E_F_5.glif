@@ -2,29 +2,15 @@
 <glyph name="uni1EF5" format="2">
   <advance width="458"/>
   <unicode hex="1EF5"/>
+  <anchor x="229" y="550" name="top"/>
   <outline>
-    <component base="dotbelowcomb" xOffset="264" yOffset="-219"/>
     <component base="y"/>
+    <component base="dotbelowcomb" xOffset="516"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w458</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -175 51</string>
-          <string>hstem 452 20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>y+dotbelowcomb</string>
   </dict>
   </lib>
 </glyph>

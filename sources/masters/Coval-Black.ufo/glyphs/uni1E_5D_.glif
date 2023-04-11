@@ -3,31 +3,17 @@
   <advance width="372"/>
   <unicode hex="1E5D"/>
   <outline>
-    <component base="uni02C9" xOffset="-40" yOffset="-20"/>
     <component base="uni1E5B"/>
+    <component base="uni0304" xOffset="485"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w372</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -190 161</string>
-          <string>hstem 0 21</string>
-          <string>hstem 366 112</string>
-          <string>hstem 518 101</string>
-          <string>vstem 52 142</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1E5B+uni0304</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -12,3 +12,16 @@ The latest version is 0.6.3a.
 The latest development version is 0.7.0.
 
 There is project page for the fonts at SourceForge.net.
+
+Source: https://cm-unicode.sourceforge.io/
+
+References
+
+   1. http://lilypond.org/mftrace/
+   2. http://fontforge.sf.net/
+   3. http://canopus.iacp.dvo.ru/~panov/cm-unicode/ (homepage)
+   4. ftp://cam.ctan.org/tex-archive/fonts/ec/ (ec and tc fonts)
+   5. ftp://cam.ctan.org/tex-archive/fonts/cyrillic/lh (lh fonts)
+   6. ftp://cam.ctan.org/tex-archive/fonts/greek/cb (cb greek fonts)
+   7. ftp://cam.ctan.org/tex-archive/fonts/tipa (tipa fonts)
+   8. ftp://cam.ctan.org/tex-archive/language/vietnamese/vntex/unpacked/fonts/source/vntex/vnr/ (vnr fonts)

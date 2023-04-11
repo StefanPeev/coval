@@ -5,20 +5,20 @@
   <anchor x="198" y="550" name="_top"/>
   <outline>
     <contour>
-      <point x="254" y="549.932" type="line"/>
-      <point x="254" y="612.932" type="line"/>
-      <point x="317" y="612.932" type="line"/>
-      <point x="317" y="549.932" type="line"/>
+      <point x="239" y="549.916" type="line"/>
+      <point x="239" y="627.916" type="line"/>
+      <point x="317" y="627.916" type="line"/>
+      <point x="317" y="549.916" type="line"/>
     </contour>
     <contour>
-      <point x="80" y="549.932" type="line"/>
-      <point x="80" y="612.932" type="line"/>
-      <point x="143" y="612.932" type="line"/>
-      <point x="143" y="549.932" type="line"/>
+      <point x="80" y="549.916" type="line"/>
+      <point x="80" y="627.916" type="line"/>
+      <point x="158" y="627.916" type="line"/>
+      <point x="158" y="549.916" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="550"/>
-  <guideline angle="90" x="223" y="0"/>
+  <guideline angle="90" x="198" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w397m254,549.93l254,612.93l317,612.93l317,549.93m80,549.93l80,612.93l143,612.93l143,549.93</string>
+    <string>w397m239,549.92l239,627.92l317,627.92l317,549.92m80,549.92l80,627.92l158,627.92l158,549.92</string>
     <key>hintSetList</key>
     <array>
       <dict>

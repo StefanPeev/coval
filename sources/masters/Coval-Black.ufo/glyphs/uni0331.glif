@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0331" format="2">
   <unicode hex="0331"/>
+  <anchor x="-253" y="-60" name="_bottom_60"/>
   <outline>
-    <contour>
-      <point x="-493" y="-209" type="line"/>
-      <point x="-493" y="-109" type="line"/>
-      <point x="-60" y="-109" type="line"/>
-      <point x="-60" y="-209" type="line"/>
-    </contour>
+    <component base="macron" xOffset="-473.559" yOffset="-710"/>
   </outline>
+  <guideline angle="0" x="0" y="-60"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -16,7 +13,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-493,-209l-493,-109l-60,-109l-60,-209</string>
+    <string>w0</string>
     <key>hintSetList</key>
     <array>
       <dict>

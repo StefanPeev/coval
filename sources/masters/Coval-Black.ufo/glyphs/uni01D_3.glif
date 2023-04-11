@@ -3,6 +3,7 @@
   <advance width="673"/>
   <unicode hex="01D3"/>
   <anchor x="366" y="10" name="bottom_0"/>
+  <anchor x="342" y="-60" name="bottom_60"/>
   <outline>
     <component base="U"/>
     <component base="uni030C" xOffset="614" yOffset="240"/>

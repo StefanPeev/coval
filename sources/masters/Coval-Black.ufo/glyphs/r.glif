@@ -3,6 +3,7 @@
   <advance width="372"/>
   <unicode hex="0072"/>
   <anchor x="212" y="550" name="top"/>
+  <anchor x="125" y="-60" name="bottom_60"/>
   <outline>
     <contour>
       <point x="50" y="0" type="line"/>
@@ -19,6 +20,7 @@
       <point x="200" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="111" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>

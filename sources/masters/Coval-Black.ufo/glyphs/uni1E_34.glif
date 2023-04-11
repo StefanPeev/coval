@@ -1,32 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E34" format="2">
-  <advance width="764"/>
+  <advance width="725"/>
   <unicode hex="1E34"/>
+  <anchor x="312" y="790" name="top"/>
   <outline>
-    <component base="uni0331" xOffset="683" yOffset="49"/>
-    <component base="K" xOffset="39"/>
+    <component base="K"/>
+    <component base="uni0331" xOffset="615"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w764</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -130 101</string>
-          <string>hstem 0 21</string>
-          <string>hstem 675 20</string>
-          <string>vstem 84 146</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>K+uni0331</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

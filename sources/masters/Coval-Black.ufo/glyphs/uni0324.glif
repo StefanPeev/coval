@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0324" format="2">
   <unicode hex="0324"/>
+  <anchor x="-271" y="-60" name="_bottom_60"/>
   <outline>
-    <contour>
-      <point x="-231" y="-174" type="line"/>
-      <point x="-231" y="-46" type="line"/>
-      <point x="-103" y="-46" type="line"/>
-      <point x="-103" y="-174" type="line"/>
-    </contour>
-    <contour>
-      <point x="-439" y="-174" type="line"/>
-      <point x="-439" y="-46" type="line"/>
-      <point x="-311" y="-46" type="line"/>
-      <point x="-311" y="-174" type="line"/>
-    </contour>
+    <component base="dieresis" xOffset="-501" yOffset="-738"/>
   </outline>
+  <guideline angle="0" x="0" y="-60"/>
+  <guideline angle="90" x="-271" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -22,7 +14,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-231,-174l-231,-46l-103,-46l-103,-174m-439,-174l-439,-46l-311,-46l-311,-174</string>
+    <string>w0</string>
     <key>hintSetList</key>
     <array>
       <dict>

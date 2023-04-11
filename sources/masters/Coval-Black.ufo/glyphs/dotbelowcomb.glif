@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotbelowcomb" format="2">
   <unicode hex="0323"/>
+  <anchor x="-154" y="-60" name="_bottom_60"/>
   <outline>
-    <contour>
-      <point x="-207" y="-134" type="line"/>
-      <point x="-207" y="-6" type="line"/>
-      <point x="-79" y="-6" type="line"/>
-      <point x="-79" y="-134" type="line"/>
-    </contour>
+    <component base="dotaccent" xOffset="-298" yOffset="-738.441"/>
   </outline>
+  <guideline angle="0" x="0" y="-60"/>
+  <guideline angle="90" x="-154" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -16,7 +14,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-207,-134l-207,-6l-79,-6l-79,-134</string>
+    <string>w0</string>
     <key>hintSetList</key>
     <array>
       <dict>

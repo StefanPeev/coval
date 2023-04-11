@@ -30,33 +30,21 @@
     <key>color</key>
     <string>1,0,0,1</string>
     <key>name</key>
-    <string>f1</string>
-    <key>x</key>
-    <integer>361</integer>
-    <key>y</key>
-    <integer>0</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>90</integer>
-    <key>color</key>
-    <string>1,0,0,1</string>
-    <key>name</key>
-    <string>f2</string>
-    <key>x</key>
-    <integer>121</integer>
-    <key>y</key>
-    <integer>0</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>90</integer>
-    <key>color</key>
-    <string>1,0,0,1</string>
-    <key>name</key>
     <string>f3</string>
     <key>x</key>
-    <integer>241</integer>
+    <integer>381</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>color</key>
+    <string>1,0,0,1</string>
+    <key>name</key>
+    <string>f1</string>
+    <key>x</key>
+    <integer>366</integer>
     <key>y</key>
     <integer>0</integer>
   </dict>
@@ -68,7 +56,19 @@
     <key>name</key>
     <string>f4</string>
     <key>x</key>
-    <integer>528</integer>
+    <integer>274</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>color</key>
+    <string>1,0,0,1</string>
+    <key>name</key>
+    <string>f2</string>
+    <key>x</key>
+    <integer>125</integer>
     <key>y</key>
     <integer>0</integer>
   </dict>
@@ -208,7 +208,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.509</string>
+  <string>Version 2.510</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -371,7 +371,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>509</integer>
+  <integer>510</integer>
   <key>xHeight</key>
   <integer>472</integer>
 </dict>

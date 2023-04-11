@@ -2,6 +2,7 @@
 <glyph name="uni040C" format="2">
   <advance width="682"/>
   <unicode hex="040C"/>
+  <anchor x="362" y="-60" name="bottom_60"/>
   <outline>
     <component base="uni041A"/>
     <component base="acutecomb" xOffset="615" yOffset="240"/>

@@ -1,33 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1ECB" format="2">
-  <advance width="224"/>
+  <advance width="225"/>
   <unicode hex="1ECB"/>
+  <anchor x="109" y="10" name="bottom_0"/>
+  <anchor x="112" y="690" name="top_D"/>
   <outline>
-    <component base="dotbelowcomb" xOffset="259.5" yOffset="-44"/>
     <component base="i"/>
+    <component base="dotbelowcomb" xOffset="260"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w224</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -133 21</string>
-          <string>hstem 0 21</string>
-          <string>hstem 452 20</string>
-          <string>hstem 675 20</string>
-          <string>vstem 80 63</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>i+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

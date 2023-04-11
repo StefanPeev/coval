@@ -5,13 +5,8 @@
     <contour>
       <point x="-406" y="513" type="line"/>
       <point x="-406" y="578" type="line"/>
-      <point x="-226" y="578" type="line"/>
-      <point x="-226" y="575"/>
-      <point x="-225" y="573"/>
-      <point x="-225" y="570" type="curve"/>
-      <point x="-201" y="612"/>
-      <point x="-177" y="653"/>
-      <point x="-153" y="695" type="curve"/>
+      <point x="-220.392" y="578" type="line"/>
+      <point x="-153" y="695" type="line"/>
       <point x="-88" y="695" type="line"/>
       <point x="-193" y="513" type="line"/>
     </contour>
@@ -23,7 +18,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-406,513l-406,578l-226,578c-226,575 -225,573 -225,570c-201,612 -177,653 -153,695l-88,695l-193,513</string>
+    <string>w0m-406,513l-406,578l-220.39,578l-153,695l-88,695l-193,513</string>
     <key>hintSetList</key>
     <array>
       <dict>

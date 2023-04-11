@@ -1,33 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcommaaccent" format="2">
-  <advance width="545"/>
+  <advance width="535"/>
   <unicode hex="013B"/>
+  <anchor x="115" y="790" name="top"/>
   <outline>
-    <component base="uni0326" xOffset="374" yOffset="-16"/>
-    <component base="L" xOffset="-20"/>
+    <component base="L"/>
+    <component base="uni0326" xOffset="384"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w545</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -192 21</string>
-          <string>hstem -80 20</string>
-          <string>hstem 0 53</string>
-          <string>hstem 675 20</string>
-          <string>vstem 98 70</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L+uni0326</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

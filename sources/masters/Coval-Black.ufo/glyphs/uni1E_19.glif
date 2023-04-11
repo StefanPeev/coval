@@ -2,32 +2,20 @@
 <glyph name="uni1E19" format="2">
   <advance width="511"/>
   <unicode hex="1E19"/>
+  <anchor x="249" y="550" name="top"/>
+  <anchor x="256" y="10" name="bottom_0"/>
   <outline>
-    <component base="uni032D" xOffset="547.5" yOffset="-23"/>
     <component base="e"/>
+    <component base="uni032D" xOffset="528"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w511</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -203 21</string>
-          <string>hstem -11 90</string>
-          <string>hstem 240 71</string>
-          <string>hstem 399 89</string>
-          <string>vstem 24 142</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+uni032D</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

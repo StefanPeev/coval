@@ -3,13 +3,14 @@
   <advance width="543"/>
   <unicode hex="004C"/>
   <anchor x="122" y="790" name="top"/>
+  <anchor x="272" y="-60" name="bottom_60"/>
   <outline>
     <contour>
       <point x="45" y="0" type="line"/>
       <point x="45" y="695" type="line"/>
       <point x="208" y="695" type="line"/>
-      <point x="208" y="118" type="line"/>
-      <point x="495" y="121" type="line"/>
+      <point x="208" y="119.5" type="line"/>
+      <point x="495" y="119.5" type="line"/>
       <point x="495" y="0" type="line"/>
     </contour>
   </outline>
@@ -22,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w543m45,0l45,695l208,695l208,118l495,121l495,0</string>
+    <string>w543m45,0l45,695l208,695l208,119.5l495,119.5l495,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

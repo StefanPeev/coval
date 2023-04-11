@@ -3,7 +3,7 @@
   <advance width="190"/>
   <unicode hex="03AA"/>
   <anchor x="40" y="530" name="Iota_gr_tonos"/>
-  <anchor x="95.9758" y="907" name="top_D"/>
+  <anchor x="93.9758" y="907" name="top_D"/>
   <outline>
     <component base="Iota"/>
     <component base="uni0308" xOffset="347.976" yOffset="217"/>

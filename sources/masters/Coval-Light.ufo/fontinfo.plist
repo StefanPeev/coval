@@ -30,9 +30,9 @@
     <key>color</key>
     <string>1,0,0,1</string>
     <key>name</key>
-    <string>f2</string>
+    <string>f1</string>
     <key>x</key>
-    <integer>343</integer>
+    <integer>365</integer>
     <key>y</key>
     <integer>0</integer>
   </dict>
@@ -42,9 +42,9 @@
     <key>color</key>
     <string>1,0,0,1</string>
     <key>name</key>
-    <string>f1</string>
+    <string>f2</string>
     <key>x</key>
-    <integer>234</integer>
+    <integer>262</integer>
     <key>y</key>
     <integer>0</integer>
   </dict>
@@ -184,7 +184,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Light</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.509</string>
+  <string>Version 2.510</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -341,7 +341,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>509</integer>
+  <integer>510</integer>
   <key>xHeight</key>
   <integer>472</integer>
 </dict>

@@ -2,8 +2,19 @@
 <glyph name="aringacute" format="2">
   <advance width="520"/>
   <unicode hex="01FB"/>
+  <anchor x="361" y="10" name="bottom_0"/>
   <outline>
-    <component base="uni02CA" xOffset="-8" yOffset="307"/>
     <component base="aring"/>
+    <component base="acutecomb" xOffset="564.5" yOffset="240"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>aring+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>
